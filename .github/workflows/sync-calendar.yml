@@ -37,7 +37,7 @@ jobs:
           EOF
 
       - name: Restore mirrored_uids.json
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v3
         with:
           name: mirrored-uids
           path: .
