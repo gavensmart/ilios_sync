@@ -34,6 +34,12 @@ jobs:
           ${{ secrets.SERVICE_ACCOUNT_JSON }}
           EOF
 
+      - name: Restore mirrored_uids.json
+        uses: actions/download-artifact@v4
+        with:
+          name: mirrored-uids
+          path: .
+
       - name: Run full sync
         env:
           ILIOS_ICS_URL:      ${{ vars.ILIOS_ICS_URL }}
