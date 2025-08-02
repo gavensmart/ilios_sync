@@ -54,10 +54,10 @@ jobs:
           path: .
 
 
-      - name: Commit & push changes
+      - name: Commit and push ilios_full.ics
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
           git add ilios_full.ics
           git commit -m "Auto-update ilios_full.ics" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/gavensmart/ilios_sync.git HEAD:main
+          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/gavensmart/ilios_sync.git HEAD:main
