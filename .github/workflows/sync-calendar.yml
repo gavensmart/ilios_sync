@@ -36,12 +36,12 @@ jobs:
           ${{ secrets.SERVICE_ACCOUNT_JSON }}
           EOF
 
-      - name: Restore mirrored_uids.json
+      - name: Restore mirrored_uids.json (if available)
+        continue-on-error: true  # Prevents failure on first run
         uses: actions/download-artifact@v4
         with:
           name: mirrored-uids
           path: .
-          if-no-files-found: ignore
 
       - name: Run full sync
         env:
@@ -49,8 +49,9 @@ jobs:
           SYNCED_CALENDAR_ID: ${{ vars.SYNCED_CALENDAR_ID }}
         run: |
           python full_sync3.py
-          
+
       - name: Save mirrored_uids.json
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: mirrored-uids
