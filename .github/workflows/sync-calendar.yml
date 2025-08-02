@@ -54,18 +54,13 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: mirrored-uids
-          path: |
-            mirrored_uids_8f95adc96fd9264d24ac9cfae3c5983a7b7b7a36928aaad405b95fbdcb1b42ad.json
-            mirrored_uids_ca0d74278289fd964e60c398bdefadd3a44598504eb8a3df6d92facd833733f3.json
-
+          path: mirrored_uids_*.json
 
 
       - name: Commit and push updates
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add ilios_full.ics \
-            mirrored_uids_923ec3bb3b4094b93e656b4219d7cdd6b8b6afd3276884fa59d86b03179e2efa.json \
-            mirrored_uids_38cb3817ad0072fde216eccd7c98713284104e8c68dafcc6d11870a63be70378.json
+          git add ilios_full.ics mirrored_uids_*.json
           git commit -m "Auto-update ilios_full.ics + mirrored_uids" || echo "No changes"
           git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/gavensmart/ilios_sync.git HEAD:main
