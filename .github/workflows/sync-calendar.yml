@@ -59,10 +59,10 @@ jobs:
 
 
 
-      - name: Commit and push ilios_full.ics
+      - name: Commit and push updates
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add ilios_full.ics
-          git commit -m "Auto-update ilios_full.ics" || echo "No changes to commit"
+          git add ilios_full.ics mirrored_uids.json
+          git commit -m "Auto-update ilios_full.ics + mirrored_uids" || echo "No changes"
           git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/gavensmart/ilios_sync.git HEAD:main
