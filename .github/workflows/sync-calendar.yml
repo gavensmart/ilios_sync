@@ -40,6 +40,12 @@ jobs:
           SYNCED_CALENDAR_ID: ${{ vars.SYNCED_CALENDAR_ID }}
         run: |
           python full_sync3.py
+          
+      - name: Save mirrored_uids.json
+        uses: actions/upload-artifact@v4
+        with:
+          name: mirrored-uids
+          path: mirrored_uids.json
 
       - name: Commit & push updated .ics
         run: |
