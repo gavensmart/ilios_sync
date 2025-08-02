@@ -50,12 +50,13 @@ jobs:
         run: |
           python full_sync3.py
 
-      - name: Save mirrored_uids.json
-        if: always()
+      - name: Save mirrored UID files
         uses: actions/upload-artifact@v4
         with:
           name: mirrored-uids
-          path: mirrored_uids.json
+          path: |
+            mirrored_uids_923ec3bb3b4094b93e656b4219d7cdd6b8b6afd3276884fa59d86b03179e2efa.json
+            mirrored_uids_38cb3817ad0072fde216eccd7c98713284104e8c68dafcc6d11870a63be70378.json
 
 
 
