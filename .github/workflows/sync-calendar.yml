@@ -24,7 +24,9 @@ jobs:
 
       - name: Write Google credentials
         run: |
-          echo "${{ secrets.GCP_CREDENTIALS_JSON }}" > credentials.json
+          cat <<EOF > credentials.json
+          ${{ secrets.GCP_CREDENTIALS_JSON }}
+          EOF
 
       - name: Run full sync
         env:
