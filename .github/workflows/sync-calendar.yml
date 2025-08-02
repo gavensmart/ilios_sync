@@ -31,7 +31,7 @@ jobs:
           ILIOS_ICS_URL:      ${{ vars.ILIOS_ICS_URL }}
           SYNCED_CALENDAR_ID: ${{ vars.SYNCED_CALENDAR_ID }}
         run: |
-          python full_sync.py
+          python full_sync3.py
 
       - name: Commit & push updated .ics
         run: |
