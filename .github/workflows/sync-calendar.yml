@@ -43,6 +43,12 @@ jobs:
           ILIOS_ICS_URL:      ${{ vars.ILIOS_ICS_URL }}
           SYNCED_CALENDAR_ID: ${{ vars.SYNCED_CALENDAR_ID }}
         run: python full_sync3.py
+
+      - name: Upload mirrored JSON artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: mirrored-uids
+          path: mirrored_uids_*.json
         
       - name: List workspace files
         run: |
