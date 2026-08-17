@@ -2,36 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Custom Ilios Calendar//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:SVT: Speed Dating Flipped Classroom **Highly Encouraged Attendance
- **
-DTSTART:20260416T152000Z
-DTEND:20260416T155000Z
-UID:17a72c2b767fd5f03965683d1b5fb7c5
-DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
- n\nhttps://curriculum.ufhealth.org/events/U20260416O44373
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Discovery Track - Individual Track Activities or MSRP / Independen
- t Study (Spring)
-DTSTART:20260416T170000Z
-DTEND:20260416T190000Z
-UID:22e4d7b64b9a19ff02fd69105db22732
-DESCRIPTION:This offering is a(n) Self-Directed Learning\n\nhttps://curric
- ulum.ufhealth.org/events/U20260416O44010
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cardiovascular System Review **Optional**
-DTSTART:20260416T210000Z
-DTEND:20260416T230000Z
-UID:ba80d303807e888f9f7dd4c571ced626
-DESCRIPTION:This offering is a(n) Peer Teaching\n\nhttps://curriculum.ufhe
- alth.org/events/U20260416O43457
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ECG Practice 1  **Highly Encouraged Attendance**
 DTSTART:20260417T120000Z
 DTEND:20260417T125000Z
-UID:972d50262e27c240160ded00f2540957
+UID:05f495026b2e338f33d20bcdcb6f70ca
 DESCRIPTION:This offering is a(n) Case-Based Instruction/Learning\nSession
   has Learning Materials\n\nhttps://curriculum.ufhealth.org/events/U2026041
  7O43425
@@ -40,7 +14,7 @@ BEGIN:VEVENT
 SUMMARY:DDx: Chest Pain  **Highly Encouraged Attendance**
 DTSTART:20260417T130000Z
 DTEND:20260417T135000Z
-UID:f939f807ad067fc9a661d088bfee1244
+UID:30154ca98e7292895ea04d1644bdd3c2
 DESCRIPTION:This offering is a(n) Case-Based Instruction/Learning\nSession
   has Learning Materials\n\nhttps://curriculum.ufhealth.org/events/U2026041
  7O43458
@@ -49,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Who Wants to be a Cardiologist?  **Highly Encouraged Attendance**
 DTSTART:20260417T140000Z
 DTEND:20260417T143000Z
-UID:9d201020673c58bdb96eb5572b4c8cc6
+UID:76717cb07661d2ac5bb7b2d24f6753bf
 DESCRIPTION:This offering is a(n) Games\n\nhttps://curriculum.ufhealth.org
  /events/U20260417O43516
 END:VEVENT
@@ -57,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:Review For Step 1 **Highly Encouraged Attendance**
 DTSTART:20260417T144000Z
 DTEND:20260417T151000Z
-UID:45735c2c49f9938cb4f8aa5aaf1ec668
+UID:ef39c7a6c661678844a93b77bc4ce699
 DESCRIPTION:This offering is a(n) Case-Based Instruction/Learning\n\nhttps
  ://curriculum.ufhealth.org/events/U20260417O43508
 END:VEVENT
@@ -65,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Week 2 Recap  **Highly Encouraged Attendance**
 DTSTART:20260417T152000Z
 DTEND:20260417T155000Z
-UID:ea3f02eed7ef92982b168f0b216ac48e
+UID:19e1f3d2c40b5562659dd57301d7b8c0
 DESCRIPTION:This offering is a(n) Discussion\, Large Group (>12)\nSession 
  has Learning Materials\n\nhttps://curriculum.ufhealth.org/events/U20260417
  O43477
@@ -74,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Quiz II (Download Opens)
 DTSTART:20260417T210000Z
 DTEND:20260417T213000Z
-UID:0d5f578c6c62137cf829c1816b00fd3a
+UID:3ef956fe2f34e58fadd050cabc570729
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260417O4343
  8
@@ -83,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:ICM1B Quiz 9 (Download Opens)
 DTSTART:20260417T210000Z
 DTEND:20260417T213000Z
-UID:3323d8dacd93adcb328534f7986d7f6d
+UID:600525626c7db2db221c3e543b4dd134
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260417O4314
  8
@@ -92,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Endocarditis 1: Pathophysiology **Do On Your Own**
 DTSTART:20260420T120000Z
 DTEND:20260420T123000Z
-UID:cc4e467a6b1d571cb8221b47b3959ae6
+UID:5c039ead02d4bcba7b7278bf6bee5b94
 DESCRIPTION:This offering is a(n) Independent Learning\nSession has Learni
  ng Materials\n\nhttps://curriculum.ufhealth.org/events/U20260420O43430
 END:VEVENT
@@ -100,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Endocarditis 2: Diagnosis **Do On Your Own**
 DTSTART:20260420T124000Z
 DTEND:20260420T131000Z
-UID:bb167bc12c3aafbe90eb3352180bd5b4
+UID:2bdfbe36aff46b2e7f8178288f2c41d0
 DESCRIPTION:This offering is a(n) Independent Learning\nSession has Learni
  ng Materials\n\nhttps://curriculum.ufhealth.org/events/U20260420O43431
 END:VEVENT
@@ -108,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Biomakers: BNP/ntproBNP **Do On Your Own**
 DTSTART:20260420T132000Z
 DTEND:20260420T135000Z
-UID:1fd2f4780140f8a79cae8e5786b3ce29
+UID:f67d50d9d03b3f53fe20a80c68521108
 DESCRIPTION:This offering is a(n) Independent Learning\nSession has Learni
  ng Materials\n\nhttps://curriculum.ufhealth.org/events/U20260420O43428
 END:VEVENT
@@ -117,7 +91,7 @@ SUMMARY:Heart Failure 1: Overview and Diagnosis (R vs. L) **Do On Your Own
  **
 DTSTART:20260420T140000Z
 DTEND:20260420T143000Z
-UID:020e1e66524acbaa8ccab0af7fac126e
+UID:77505254810f5270cbe80ec2d284f28b
 DESCRIPTION:This offering is a(n) Independent Learning\nSession has Learni
  ng Materials\n\nhttps://curriculum.ufhealth.org/events/U20260420O43421
 END:VEVENT
@@ -125,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Heart Failure 2: HFpEF **Do On Your Own**
 DTSTART:20260420T144000Z
 DTEND:20260420T151000Z
-UID:3a541ff7bf52e28d97b396a165bc3746
+UID:8ca495f18114056e0f4ad448ffc9a07c
 DESCRIPTION:This offering is a(n) Independent Learning\nSession has Learni
  ng Materials\n\nhttps://curriculum.ufhealth.org/events/U20260420O43422
 END:VEVENT
@@ -133,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:Cardiac Tumors and Cardio-oncology **Do On Your Own**
 DTSTART:20260420T152000Z
 DTEND:20260420T155000Z
-UID:3fd1f63712bf4eba30975868c63b0855
+UID:99192eef068c3b4f8bb2e8fc9c889b9d
 DESCRIPTION:This offering is a(n) Independent Learning\nSession has Learni
  ng Materials\n\nhttps://curriculum.ufhealth.org/events/U20260420O43440
 END:VEVENT
@@ -142,7 +116,7 @@ SUMMARY:Patient Counseling in Pediatric Primary Care **Required Attendance
  **
 DTSTART:20260420T180000Z
 DTEND:20260420T185000Z
-UID:f7b2b6a997dd05ef7ed034a714e7a0c4
+UID:97b76ab0cc99aecf79928462ba196a0b
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260420O44357
 END:VEVENT
@@ -150,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Patient Counseling in Adult Primary Care **Required Attendance**
 DTSTART:20260420T190000Z
 DTEND:20260420T195000Z
-UID:d83ff77b1daed062f99815f1d4f81132
+UID:feac56ff9b58455835e7901a4756717c
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260420O44356
 END:VEVENT
@@ -158,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Cardiovascular System Review **Optional**
 DTSTART:20260420T210000Z
 DTEND:20260420T230000Z
-UID:49dec0f766a81423f25757e162141110
+UID:5bede817bb6902691ebb1f9f1ec0e132
 DESCRIPTION:This offering is a(n) Peer Teaching\n\nhttps://curriculum.ufhe
  alth.org/events/U20260420O43453
 END:VEVENT
@@ -166,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:CLG: Aquifer CHF case/Student led: Chest Pain Diff Dx Cases
 DTSTART:20260421T130000Z
 DTEND:20260421T160000Z
-UID:e2b56a2e88e342ab8ac257799e61b61b
+UID:a41938eb3aa86bd4aafc7edd544783be
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260421O42378
 END:VEVENT
@@ -174,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:Valve Disease 1: Clinical Presentation
 DTSTART:20260421T170000Z
 DTEND:20260421T173000Z
-UID:b896c8cd263a98a8a354824723a7867e
+UID:08bcb2eb308086660b26fc4da34f8352
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260421O43518
 END:VEVENT
@@ -182,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Valve Disease 2: Pathology
 DTSTART:20260421T174000Z
 DTEND:20260421T181000Z
-UID:686e9145880ace8af7036d14b05783bf
+UID:06da3d8f5e1416c204f1eb7876d45021
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260421O43443
 END:VEVENT
@@ -190,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Valve Disease 3: Pathophysiology and Treatment
 DTSTART:20260421T182000Z
 DTEND:20260421T185000Z
-UID:9919602357af279a53de9d4fcb087f59
+UID:c39259e34a1f6547dff18b34297c35ba
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260421O43519
 END:VEVENT
@@ -198,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:ECG: Other 1
 DTSTART:20260421T190000Z
 DTEND:20260421T193000Z
-UID:d34ebd4f853ce1295cfabd8e24367b57
+UID:eac7f0e573ccc4326899614f5a9aa749
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260421O43484
 END:VEVENT
@@ -206,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Cyanotic Congenital Heart Disease
 DTSTART:20260421T194000Z
 DTEND:20260421T201000Z
-UID:a5ef18f3db6551408cac3f0f2cc58e63
+UID:1412e353f9e8e90e3742cc7100275dcc
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260421O43493
 END:VEVENT
@@ -214,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:Acyanotic Congenital Heart Disease
 DTSTART:20260421T202000Z
 DTEND:20260421T205000Z
-UID:2338cdc037f80b14273014e5e658de18
+UID:309ab48224f1ea027bfa45a6f8392d7f
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260421O43492
 END:VEVENT
@@ -222,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:CLG: Aquifer CHF case/Student led: Chest Pain Diff Dx Cases
 DTSTART:20260422T130000Z
 DTEND:20260422T160000Z
-UID:75140963fb189ffe2c388109a51cc9bd
+UID:6e34357979c037841f344cca30449493
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260422O42379
 END:VEVENT
@@ -230,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Heart Failure 3: HFrEF
 DTSTART:20260422T170000Z
 DTEND:20260422T173000Z
-UID:8d4d41504ba92787a20aa491c1fd3e79
+UID:5efdf52fe87eff957d046fff2f7dbcbe
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260422O43436
 END:VEVENT
@@ -238,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:Heart Failure 4: Cardiomyopathies
 DTSTART:20260422T174000Z
 DTEND:20260422T181000Z
-UID:83d490e96ad7be834beb14201d86f7ed
+UID:74d14d7fc53fc601dd05a85670da9529
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260422O43520
 END:VEVENT
@@ -246,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:Heart Failure 5: Shock and Acute HF
 DTSTART:20260422T182000Z
 DTEND:20260422T185000Z
-UID:ec8d558205ee2d73acb70456c18f152e
+UID:7c06db38c21ec2227c022ff31fe0aac2
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260422O43521
 END:VEVENT
@@ -254,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Pharm: Diuretics
 DTSTART:20260422T190000Z
 DTEND:20260422T193000Z
-UID:c4b14d1b395ef51d1117807787e41d6f
+UID:15f32b562f967ddc93eff18ce8d2bd59
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260422O43476
 END:VEVENT
@@ -262,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:Pharm: Neurohormonal Blockade
 DTSTART:20260422T194000Z
 DTEND:20260422T201000Z
-UID:e8e3dc8498d6cd0937c28eaa1a609756
+UID:a594f484bf45a82fb035d6b313452456
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260422O43424
 END:VEVENT
@@ -270,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:Pharm: Inotropes
 DTSTART:20260422T202000Z
 DTEND:20260422T205000Z
-UID:7c30a0f9d0e6cff7349d3656915f7ae5
+UID:585ec90d4bafc8737df24bca3cbad708
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260422O43423
 END:VEVENT
@@ -278,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:Cardiovascular System Review **Optional**
 DTSTART:20260422T210000Z
 DTEND:20260422T230000Z
-UID:40e9c799a2becdb50ecc8475ce1b5de7
+UID:0d85d07fa02f4b4edc5a57b3ad3cd9cb
 DESCRIPTION:This offering is a(n) Peer Teaching\n\nhttps://curriculum.ufhe
  alth.org/events/U20260422O43455
 END:VEVENT
@@ -286,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga with Dr. Winchester (optional)
 DTSTART:20260423T100000Z
 DTEND:20260423T105000Z
-UID:53d9bd02571c8aa503d6ed7188bbe65a
+UID:676c33f3f19a6f14723ca074970c87d8
 DESCRIPTION:This offering is a(n) Social Event\n\nhttps://curriculum.ufhea
  lth.org/events/U20260423O43479
 END:VEVENT
@@ -294,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:Valvular Disease Case Studies **Highly Encouraged Attendance**
 DTSTART:20260423T120000Z
 DTEND:20260423T123000Z
-UID:3e2f2b3708c95603f909b36622f5c314
+UID:cad5f778edf46ac7c785f72199e795f3
 DESCRIPTION:This offering is a(n) Case-Based Instruction/Learning\n\nhttps
  ://curriculum.ufhealth.org/events/U20260423O43480
 END:VEVENT
@@ -302,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:Cardiology Feud! **Highly Encouraged Attendance**
 DTSTART:20260423T124000Z
 DTEND:20260423T131000Z
-UID:e5d2a05752cd8da5dc96112d6735f1e6
+UID:228438c0f7acc2a465fb8991f3c53cd8
 DESCRIPTION:This offering is a(n) Games\n\nhttps://curriculum.ufhealth.org
  /events/U20260423O43532
 END:VEVENT
@@ -310,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:DDx: Dyspnea **Highly Encouraged Attendance**
 DTSTART:20260423T132000Z
 DTEND:20260423T135000Z
-UID:46614045c08cd73490947ccc6d3aa825
+UID:836a2293000f828c49576452c15bcb3d
 DESCRIPTION:This offering is a(n) Case-Based Instruction/Learning\n\nhttps
  ://curriculum.ufhealth.org/events/U20260423O43473
 END:VEVENT
@@ -318,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:Heart Failure CBL **Highly Encouraged Attendance**
 DTSTART:20260423T140000Z
 DTEND:20260423T143000Z
-UID:499ca7b34189272a0113c8437ed2b0f1
+UID:a150dc96b17454fb3a298a1f433019fd
 DESCRIPTION:This offering is a(n) Case-Based Instruction/Learning\n\nhttps
  ://curriculum.ufhealth.org/events/U20260423O43435
 END:VEVENT
@@ -326,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:Heart Songs Part 1 **Highly Encouraged Attendance**
 DTSTART:20260423T144000Z
 DTEND:20260423T151000Z
-UID:9318b774dc9851a691ae9754e13ba29b
+UID:f110657da22a1a7e075f664b98ce281a
 DESCRIPTION:This offering is a(n) Case-Based Instruction/Learning\n\nhttps
  ://curriculum.ufhealth.org/events/U20260423O43523
 END:VEVENT
@@ -334,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:Heart Songs Part 2 **Highly Encouraged Attendance**
 DTSTART:20260423T152000Z
 DTEND:20260423T155000Z
-UID:e16b43eca6ee585c8b09d2bdad6666c8
+UID:c32fe9f06bdf087f69f11902b233a3e2
 DESCRIPTION:This offering is a(n) Case-Based Instruction/Learning\n\nhttps
  ://curriculum.ufhealth.org/events/U20260423O44323
 END:VEVENT
@@ -343,7 +317,7 @@ SUMMARY:Discovery Track - Individual Track Activities or MSRP / Independen
  t Study (Spring)
 DTSTART:20260423T170000Z
 DTEND:20260423T190000Z
-UID:f5269889e96b02be5f7055a4189c32af
+UID:5fb9ae46a71eae15e9e82652f94788f2
 DESCRIPTION:This offering is a(n) Self-Directed Learning\n\nhttps://curric
  ulum.ufhealth.org/events/U20260423O44011
 END:VEVENT
@@ -351,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:Cardiovascular System Review **Optional**
 DTSTART:20260423T210000Z
 DTEND:20260423T230000Z
-UID:cbd6adc21b8df8c6012523595f9dfb0a
+UID:11a7fd041033056a310c4952348eb868
 DESCRIPTION:This offering is a(n) Peer Teaching\n\nhttps://curriculum.ufhe
  alth.org/events/U20260423O43454
 END:VEVENT
@@ -359,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Endocarditis CBL **Highly Encouraged Attendance**
 DTSTART:20260424T120000Z
 DTEND:20260424T125000Z
-UID:9a7f79dbfd1a280fe0e544b9aa5a6a4e
+UID:b8dff776433ba7b6ada28e2f6c274b8c
 DESCRIPTION:This offering is a(n) Case-Based Instruction/Learning\n\nhttps
  ://curriculum.ufhealth.org/events/U20260424O43524
 END:VEVENT
@@ -367,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:ECG Practice 2 **Highly Encouraged Attendance**
 DTSTART:20260424T130000Z
 DTEND:20260424T135000Z
-UID:98fad22df563fd68063a1bf189e6b816
+UID:ca066f63e896fcfc541769010a2938a9
 DESCRIPTION:This offering is a(n) Case-Based Instruction/Learning\n\nhttps
  ://curriculum.ufhealth.org/events/U20260424O43427
 END:VEVENT
@@ -375,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Review for Step 1 **Highly Encouraged Attendance**
 DTSTART:20260424T140000Z
 DTEND:20260424T143000Z
-UID:03cd136d4efb01ba6d8c1a98434ce9bb
+UID:7003d505727c69ddd64f0948f26237cd
 DESCRIPTION:This offering is a(n) Case-Based Instruction/Learning\n\nhttps
  ://curriculum.ufhealth.org/events/U20260424O44324
 END:VEVENT
@@ -383,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:Week 3 Recap **Highly Encouraged Attendance**
 DTSTART:20260424T144000Z
 DTEND:20260424T151000Z
-UID:9c7aa99fea536dea8f77b911d17e204d
+UID:477a37d9bcbc42d34997aafe4081221d
 DESCRIPTION:This offering is a(n) Discussion\, Large Group (>12)\n\nhttps:
  //curriculum.ufhealth.org/events/U20260424O43485
 END:VEVENT
@@ -391,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:Peer-to-Peer Learning **Highly Encouraged Attendance**
 DTSTART:20260424T152000Z
 DTEND:20260424T155000Z
-UID:4d706f9c59ed372c2253f10176ae7e66
+UID:38b33e35286313371cd060cebb3e60b0
 DESCRIPTION:This offering is a(n) Peer Teaching\n\nhttps://curriculum.ufhe
  alth.org/events/U20260424O43522
 END:VEVENT
@@ -399,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:Anatomy Lecture - Superior/Posterior  Mediastinum
 DTSTART:20260424T170000Z
 DTEND:20260424T175000Z
-UID:29618dc5af3fc7bcd7ff9c0fc6843a79
+UID:789892361cde56a4885ac32372273ffd
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260424O43153
 END:VEVENT
@@ -407,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:Anatomy Lab #10 - Superior/Posterior Mediastinum
 DTSTART:20260424T180000Z
 DTEND:20260424T210000Z
-UID:3b13b3640663af1cfeea72634a5a4f6a
+UID:0ea021426110f8e8333d6f96b42ba7cb
 DESCRIPTION:This offering is a(n) Laboratory\n\nhttps://curriculum.ufhealt
  h.org/events/U20260424O43117
 END:VEVENT
@@ -415,7 +389,7 @@ BEGIN:VEVENT
 SUMMARY:Quiz III (Download Opens)
 DTSTART:20260424T210000Z
 DTEND:20260424T213000Z
-UID:9cb809e78ebceff5293cf29e648b5bfa
+UID:0c0187cc152c9d17330bba52a78d8e94
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260424O4344
  1
@@ -424,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:ICM1B Quiz 10 (Download Opens)
 DTSTART:20260424T210000Z
 DTEND:20260424T213000Z
-UID:7917e17799727f7864de9de1d490ba8e
+UID:f33ed2293af3b59eb7d711600b9f2586
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260424O4315
  5
@@ -433,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:Anatomy Lab Quiz #10 (Canvas Quiz Opens)
 DTSTART:20260424T210000Z
 DTEND:20260424T213000Z
-UID:0a64d78c769bf7ab7c290bec3362452a
+UID:de2934fbc6ff439a8e9c7fcbbbcd7344
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260424O4322
  1
@@ -442,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:CV Low Value Care **Do On Your Own**
 DTSTART:20260427T120000Z
 DTEND:20260427T123000Z
-UID:1fadb3c8abac8ae0d290b2b8ce71d9e8
+UID:0b311c232dcc7e3e4423eb812789fc21
 DESCRIPTION:This offering is a(n) Independent Learning\n\nhttps://curricul
  um.ufhealth.org/events/U20260427O43525
 END:VEVENT
@@ -450,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Sudden Cardiac Arrest/Death **Do On Your Own**
 DTSTART:20260427T124000Z
 DTEND:20260427T131000Z
-UID:4dae49c83004a6091bc93e69543007be
+UID:fc0dc1d5afc0e4dd9fac129285a8f0b4
 DESCRIPTION:This offering is a(n) Independent Learning\n\nhttps://curricul
  um.ufhealth.org/events/U20260427O43533
 END:VEVENT
@@ -458,7 +432,7 @@ BEGIN:VEVENT
 SUMMARY:Cardio/Renal/Metabolic Syndromes **Do On Your Own**
 DTSTART:20260427T132000Z
 DTEND:20260427T135000Z
-UID:99976d501dcc618f6dbfbf9fd8cead2a
+UID:1a2053e6e33f9e2bdf0579f8037fba63
 DESCRIPTION:This offering is a(n) Independent Learning\n\nhttps://curricul
  um.ufhealth.org/events/U20260427O44325
 END:VEVENT
@@ -466,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:Cardiac Rehabilitation **Do Own Your Own**
 DTSTART:20260427T140000Z
 DTEND:20260427T143000Z
-UID:20380a6af11dc5a96acedb7e3150bc1e
+UID:6da3d2d47d8bde05d1e96fd9d8db0068
 DESCRIPTION:This offering is a(n) Independent Learning\n\nhttps://curricul
  um.ufhealth.org/events/U20260427O43482
 END:VEVENT
@@ -474,7 +448,7 @@ BEGIN:VEVENT
 SUMMARY:CVD in Women and Disparities in Care **Do Own Your Own**
 DTSTART:20260427T144000Z
 DTEND:20260427T151000Z
-UID:6f56a231ae750e9fc6e787035b21741f
+UID:f26dca2326db772cacf1cf32ade3ada7
 DESCRIPTION:This offering is a(n) Independent Learning\n\nhttps://curricul
  um.ufhealth.org/events/U20260427O43446
 END:VEVENT
@@ -482,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:Palliative CV Care **Do On Your Own**
 DTSTART:20260427T152000Z
 DTEND:20260427T155000Z
-UID:6b0a6014e7a2f9d8b3595fe1d2d28784
+UID:054cd57c19c9980ca327626b5e2deccb
 DESCRIPTION:This offering is a(n) Independent Learning\n\nhttps://curricul
  um.ufhealth.org/events/U20260427O44326
 END:VEVENT
@@ -491,7 +465,7 @@ SUMMARY:Doctor-Patient Communication in a Digital World  **Required Attend
  ance**
 DTSTART:20260427T170000Z
 DTEND:20260427T175000Z
-UID:07619681590665756077a9a79d9328fe
+UID:c9649212d247172ba32d2cac71dfabb4
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260427O43139
 END:VEVENT
@@ -500,7 +474,7 @@ SUMMARY:Population Health Ambulatory and Hospitalized Data **Required Atte
  ndance**
 DTSTART:20260427T180000Z
 DTEND:20260427T195000Z
-UID:fc4c416ed996adf1ecb225aa281b2d1f
+UID:fea04ee7eab96b8916d627b99d8022f9
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260427O43065
 END:VEVENT
@@ -508,7 +482,7 @@ BEGIN:VEVENT
 SUMMARY:Illness Script: CV/Pulmonary
 DTSTART:20260427T200000Z
 DTEND:20260427T205000Z
-UID:1359976e7319f975f3adc99a7b3860e1
+UID:bf618833ecb24ef85664e2461fd0488d
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260427O43150
 END:VEVENT
@@ -516,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:Cardiovascular System Review **Optional**
 DTSTART:20260427T210000Z
 DTEND:20260427T230000Z
-UID:382acfa8b09631b683d7062ccfb84616
+UID:7b5856c5f0b904fa2a22542fd2cd9c14
 DESCRIPTION:This offering is a(n) Peer Teaching\n\nhttps://curriculum.ufhe
  alth.org/events/U20260427O44622
 END:VEVENT
@@ -525,7 +499,7 @@ SUMMARY:CLG: Afib Clinical Case/Radiology: Cardiac **See Room Assignments
  in Canvas**
 DTSTART:20260428T130000Z
 DTEND:20260428T160000Z
-UID:091ef34c1212a5888fb85bb5ee6811dd
+UID:de35b2acfa32ef680a4caf51120d857c
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260428O42380
 END:VEVENT
@@ -533,7 +507,7 @@ BEGIN:VEVENT
 SUMMARY:Hemodynamics Lab v 2.0 **Highly Encouraged Attendance**
 DTSTART:20260428T170000Z
 DTEND:20260428T173000Z
-UID:dae3fb9ad872eb03f47f264caed6dad9
+UID:4d077285ad3cd3d252dbe55110eaf567
 DESCRIPTION:This offering is a(n) Case-Based Instruction/Learning\n\nhttps
  ://curriculum.ufhealth.org/events/U20260428O43527
 END:VEVENT
@@ -542,7 +516,7 @@ SUMMARY:Putting it Together: Cardiac Muscle and Cardiomyopathies **Highly
  Encouraged Attendance**
 DTSTART:20260428T174000Z
 DTEND:20260428T181000Z
-UID:3e75dfcb01c656de4decfe7167d1649d
+UID:cc4b113edcb6e8e960f9de7fec77644c
 DESCRIPTION:This offering is a(n) Case-Based Instruction/Learning\n\nhttps
  ://curriculum.ufhealth.org/events/U20260428O43528
 END:VEVENT
@@ -551,7 +525,7 @@ SUMMARY:Putting it Together: Atherosclerosis and CAD/PAD **Highly Encourag
  ed Attendance**
 DTSTART:20260428T182000Z
 DTEND:20260428T185000Z
-UID:c0e07157871b763f156a1d67e9b173a3
+UID:eb4e02ba0ab52f99780890c2850ccd51
 DESCRIPTION:This offering is a(n) Case-Based Instruction/Learning\n\nhttps
  ://curriculum.ufhealth.org/events/U20260428O43529
 END:VEVENT
@@ -559,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:Hands on ECG **Highly Encouraged Attendance**
 DTSTART:20260428T190000Z
 DTEND:20260428T193000Z
-UID:fab1dc0a31296031f55d6831cb300b04
+UID:9799dbcc94d669ab7bc2f909e10ab5cf
 DESCRIPTION:This offering is a(n) Simulation\n\nhttps://curriculum.ufhealt
  h.org/events/U20260428O43495
 END:VEVENT
@@ -567,7 +541,7 @@ BEGIN:VEVENT
 SUMMARY:Hands on Echocardiography **Highly Encouraged Attendance**
 DTSTART:20260428T194000Z
 DTEND:20260428T201000Z
-UID:8f5b3c6705aae67612601a7bc06d2801
+UID:810dd592f8389a04695137574c5d20c8
 DESCRIPTION:This offering is a(n) Simulation\n\nhttps://curriculum.ufhealt
  h.org/events/U20260428O43496
 END:VEVENT
@@ -575,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:Hands on Cath **Highly Encouraged Attendance**
 DTSTART:20260428T202000Z
 DTEND:20260428T205000Z
-UID:22a741a46dd0db46169fe57e172ab1ca
+UID:349bbd1c560f0d5c7bfd388ffe7a39c9
 DESCRIPTION:This offering is a(n) Simulation\n\nhttps://curriculum.ufhealt
  h.org/events/U20260428O43530
 END:VEVENT
@@ -583,7 +557,7 @@ BEGIN:VEVENT
 SUMMARY:Cardiovascular System Review **Optional**
 DTSTART:20260428T210000Z
 DTEND:20260428T230000Z
-UID:82323b025d0afc7ea29805d679389682
+UID:8e06956b4b7818a36b2c5f93261239d2
 DESCRIPTION:This offering is a(n) Peer Teaching\n\nhttps://curriculum.ufhe
  alth.org/events/U20260428O43456
 END:VEVENT
@@ -592,7 +566,7 @@ SUMMARY:CLG: Afib Clinical Case/Radiology: Cardiac **See Room Assignments
  in Canvas**
 DTSTART:20260429T130000Z
 DTEND:20260429T160000Z
-UID:6d71db05841fd22d4468ba67dbc8df8b
+UID:4ac7bccaee766cc1194c3b6d2cfcd3f7
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260429O42381
 END:VEVENT
@@ -600,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:ECG Practice 3: ECGeopardy **Highly Encouraged Attendance**
 DTSTART:20260429T170000Z
 DTEND:20260429T175000Z
-UID:1040833400f19b163fe9adabf2527de2
+UID:070b71ac061b33356f2712b226987f6b
 DESCRIPTION:This offering is a(n) Games\n\nhttps://curriculum.ufhealth.org
  /events/U20260429O43459
 END:VEVENT
@@ -608,7 +582,7 @@ BEGIN:VEVENT
 SUMMARY:Patient Presentation **Required Attendance**
 DTSTART:20260429T180000Z
 DTEND:20260429T185000Z
-UID:63b8f8b3875ece720d03d9c7cb911d9b
+UID:067d4121e8072b770e68fb8c1166b015
 DESCRIPTION:This offering is a(n) Patient Presentation - Faculty\n\nhttps:
  //curriculum.ufhealth.org/events/U20260429O43447
 END:VEVENT
@@ -616,7 +590,7 @@ BEGIN:VEVENT
 SUMMARY:IRAT/GRAT **Required Attendance**
 DTSTART:20260429T190000Z
 DTEND:20260429T195000Z
-UID:c2164af9118e3ffb36551ce2f12d3b6e
+UID:1719916b442aa56dff6f89f2590eb985
 DESCRIPTION:This offering is a(n) Case-Based Instruction/Learning\n\nhttps
  ://curriculum.ufhealth.org/events/U20260429O43531
 END:VEVENT
@@ -624,7 +598,7 @@ BEGIN:VEVENT
 SUMMARY:Final Recap **Highly Encouraged Attendance**
 DTSTART:20260429T200000Z
 DTEND:20260429T205000Z
-UID:9e78e58552168016a0a0b266d1805497
+UID:9796567123fe9c39840c19ec0be7d783
 DESCRIPTION:This offering is a(n) Discussion\, Large Group (>12)\n\nhttps:
  //curriculum.ufhealth.org/events/U20260429O43486
 END:VEVENT
@@ -632,7 +606,7 @@ BEGIN:VEVENT
 SUMMARY:Exam
 DTSTART:20260501T120000Z
 DTEND:20260501T153000Z
-UID:e48e231e40c851e9124ae6e1ec261198
+UID:351a04594f4d97219a692621f7c17a34
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260501O4343
  3
@@ -641,7 +615,7 @@ BEGIN:VEVENT
 SUMMARY:Post-exam Review **Immediate Release**
 DTSTART:20260501T153000Z
 DTEND:20260501T160000Z
-UID:15c8969e97956ed1b64730b98fe04c3f
+UID:76d3314ce18384f2fbcc336acd16c5e5
 DESCRIPTION:This offering is a(n) Self-Assessment\n\nhttps://curriculum.uf
  health.org/events/U20260501O43432
 END:VEVENT
@@ -649,7 +623,7 @@ BEGIN:VEVENT
 SUMMARY:ICM1B Written Exam 2
 DTSTART:20260501T180000Z
 DTEND:20260501T203000Z
-UID:bfa2d7589dcf9d5772419142bd4324d0
+UID:2cc8aab6db94396f457872f7b9aa6043
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260501O4310
  0
@@ -658,7 +632,7 @@ BEGIN:VEVENT
 SUMMARY:ICM1B Exam 2 Post-Exam Review **Immediate Release**
 DTSTART:20260501T203000Z
 DTEND:20260501T210000Z
-UID:1e4f50b8a56e3e9782ed2a9b121f530c
+UID:0f0f4cc5a47bf4c7f4a553cc0b377cd3
 DESCRIPTION:This offering is a(n) Self-Assessment\n\nhttps://curriculum.uf
  health.org/events/U20260501O43079
 END:VEVENT
@@ -666,7 +640,7 @@ BEGIN:VEVENT
 SUMMARY:Data Discovery Project (Due 5/1 at 11:59 PM)
 DTSTART:20260501T210000Z
 DTEND:20260501T213000Z
-UID:15fa0cfa53d41b77e32263d6f46443f7
+UID:01ddbe8da36c8fce695f53958c446e46
 DESCRIPTION:This offering is a(n) Deadline\n\nhttps://curriculum.ufhealth.
  org/events/U20260501O44390
 END:VEVENT
@@ -674,7 +648,7 @@ BEGIN:VEVENT
 SUMMARY:ICP 1B Clinical Experience
 DTSTART:20260504T120000Z
 DTEND:20260504T160000Z
-UID:7083ab9936551713c0dca78fca41849b
+UID:6a814b28552bb04dc5c425ca66b35b2e
 DESCRIPTION:This offering is a(n) Preceptorship\n\nhttps://curriculum.ufhe
  alth.org/events/U20260504O43534
 END:VEVENT
@@ -682,7 +656,7 @@ BEGIN:VEVENT
 SUMMARY:ICP 1B Clinical Experience
 DTSTART:20260504T170000Z
 DTEND:20260504T210000Z
-UID:10f3da57cccee7c77f6b232caf3cd318
+UID:f45f378a2218618900a7700b4b86f231
 DESCRIPTION:This offering is a(n) Preceptorship\n\nhttps://curriculum.ufhe
  alth.org/events/U20260504O43539
 END:VEVENT
@@ -690,7 +664,7 @@ BEGIN:VEVENT
 SUMMARY:ICP 1B Clinical Experience
 DTSTART:20260505T120000Z
 DTEND:20260505T160000Z
-UID:b713e47822b23894de37f808648a4e32
+UID:e9ed769c97bec1fa1e38cf44f7268820
 DESCRIPTION:This offering is a(n) Preceptorship\n\nhttps://curriculum.ufhe
  alth.org/events/U20260505O43537
 END:VEVENT
@@ -698,7 +672,7 @@ BEGIN:VEVENT
 SUMMARY:ICP 1B Clinical Experience
 DTSTART:20260505T170000Z
 DTEND:20260505T210000Z
-UID:e3923f4d0d091870055a01b69524ac68
+UID:094ddceb705a27c9542a88ebe14285e4
 DESCRIPTION:This offering is a(n) Preceptorship\n\nhttps://curriculum.ufhe
  alth.org/events/U20260505O43543
 END:VEVENT
@@ -706,7 +680,7 @@ BEGIN:VEVENT
 SUMMARY:ICP 1B Clinical Experience
 DTSTART:20260506T120000Z
 DTEND:20260506T160000Z
-UID:7d005f450e331ea5939a9c0b25c057fa
+UID:9b592bbd17a2ad3d43639b54caf7eb1d
 DESCRIPTION:This offering is a(n) Preceptorship\n\nhttps://curriculum.ufhe
  alth.org/events/U20260506O43538
 END:VEVENT
@@ -714,7 +688,7 @@ BEGIN:VEVENT
 SUMMARY:ICP 1B Clinical Experience
 DTSTART:20260506T170000Z
 DTEND:20260506T210000Z
-UID:bc41fc0e72441c4fa67bf35704301a0a
+UID:3b1bae134e043e73b816983f49e3c698
 DESCRIPTION:This offering is a(n) Preceptorship\n\nhttps://curriculum.ufhe
  alth.org/events/U20260506O43541
 END:VEVENT
@@ -722,7 +696,7 @@ BEGIN:VEVENT
 SUMMARY:ICP 1B Midpoint Feedback
 DTSTART:20260507T000000Z
 DTEND:20260507T010000Z
-UID:93a42f8fc08d2a19f0a0dd14cf16eebb
+UID:19f516b0a5e9cfcd867599878c2a2033
 DESCRIPTION:This offering is a(n) Narrative Assessment [formative]\n\nhttp
  s://curriculum.ufhealth.org/events/U20260507O44386
 END:VEVENT
@@ -730,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:ICP 1B Clinical Experience
 DTSTART:20260507T120000Z
 DTEND:20260507T160000Z
-UID:98e62e6d8d61ebce3e51b90591322f4c
+UID:b8096091baeed84a3f8280e80246f471
 DESCRIPTION:This offering is a(n) Preceptorship\n\nhttps://curriculum.ufhe
  alth.org/events/U20260507O43535
 END:VEVENT
@@ -738,7 +712,7 @@ BEGIN:VEVENT
 SUMMARY:ICP 1B Clinical Experience
 DTSTART:20260507T170000Z
 DTEND:20260507T210000Z
-UID:39069bdcd076cf7e1b708d2116c1bbc1
+UID:32852a9bac34ec9697776c8c9b4da072
 DESCRIPTION:This offering is a(n) Preceptorship\n\nhttps://curriculum.ufhe
  alth.org/events/U20260507O43542
 END:VEVENT
@@ -746,7 +720,7 @@ BEGIN:VEVENT
 SUMMARY:ICP 1B Clinical Experience
 DTSTART:20260508T120000Z
 DTEND:20260508T160000Z
-UID:451a361f5b4aa773f6216fc79d9be879
+UID:879520fa3b4d1cfb66d3c555a69bd504
 DESCRIPTION:This offering is a(n) Preceptorship\n\nhttps://curriculum.ufhe
  alth.org/events/U20260508O43536
 END:VEVENT
@@ -754,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:ICP 1B Clinical Experience
 DTSTART:20260508T170000Z
 DTEND:20260508T210000Z
-UID:91be72d2b6c1909fb736fe4ce90e8ccf
+UID:9d7343c7bb19431d5e9c664edb1efa89
 DESCRIPTION:This offering is a(n) Preceptorship\n\nhttps://curriculum.ufhe
  alth.org/events/U20260508O43540
 END:VEVENT
@@ -762,7 +736,7 @@ BEGIN:VEVENT
 SUMMARY:ICP 1B Individualized Learning Plan (ILP) Due
 DTSTART:20260510T210000Z
 DTEND:20260510T220000Z
-UID:d73a4a2a21b9a62a6bcef7d39c368b94
+UID:976dd482fea88c67ba9aadc85efecb21
 DESCRIPTION:This offering is a(n) Self-Assessment\n\nhttps://curriculum.uf
  health.org/events/U20260510O43546
 END:VEVENT
@@ -770,7 +744,7 @@ BEGIN:VEVENT
 SUMMARY:Introduction to Course Structure & Content & Kidney
 DTSTART:20260511T120000Z
 DTEND:20260511T125000Z
-UID:9edc54756643a112188f3fd5022273ec
+UID:58d3f7fe9825bab2da3dda587bbb99c0
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260511O43596
 END:VEVENT
@@ -778,7 +752,7 @@ BEGIN:VEVENT
 SUMMARY:Conceptual Considerations in Renal Function
 DTSTART:20260511T130000Z
 DTEND:20260511T135000Z
-UID:21be2cf3bf2a0b0600f11d81ac58d46c
+UID:654faa790e9c9d7cf36c8e7d83bc427f
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260511O44264
 END:VEVENT
@@ -786,7 +760,7 @@ BEGIN:VEVENT
 SUMMARY:Anatomy-Histology
 DTSTART:20260511T140000Z
 DTEND:20260511T145000Z
-UID:16c51b5d1aefa9c33d7945e5dd9ca55a
+UID:33197473468ddb3c1be83a6da4812467
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260511O43597
 END:VEVENT
@@ -794,7 +768,7 @@ BEGIN:VEVENT
 SUMMARY:Embryology
 DTSTART:20260511T150000Z
 DTEND:20260511T155000Z
-UID:7cd9a3b497695e6d1c1a1a135044d221
+UID:a65a223212ec977d37679a0dc2e5fa65
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260511O43548
 END:VEVENT
@@ -802,7 +776,7 @@ BEGIN:VEVENT
 SUMMARY:LGBTQ+ Panel
 DTSTART:20260511T170000Z
 DTEND:20260511T185000Z
-UID:e8821420e8c5eace4458a6a824741fd9
+UID:5e40da1c1552d6d5f94c91e7fc7899cf
 DESCRIPTION:This offering is a(n) Panel Presentation\n\nhttps://curriculum
  .ufhealth.org/events/U20260511O43073
 END:VEVENT
@@ -810,7 +784,7 @@ BEGIN:VEVENT
 SUMMARY:Renal Imaging **Required Attendance**
 DTSTART:20260511T190000Z
 DTEND:20260511T195000Z
-UID:b692b9e706fe8f601fd80a5091838027
+UID:1b113a26788294e7d24961597ab1b583
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260511O43080
 END:VEVENT
@@ -818,7 +792,7 @@ BEGIN:VEVENT
 SUMMARY:Anatomy Lecture: Kidney
 DTSTART:20260511T200000Z
 DTEND:20260511T205000Z
-UID:3d01e0fd9f61206344be704de8868aa3
+UID:e83e693006526eccbcc8bdf7e0e3492e
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260511O43096
 END:VEVENT
@@ -826,7 +800,7 @@ BEGIN:VEVENT
 SUMMARY:CLG: Inpatient Encounter 3a
 DTSTART:20260512T130000Z
 DTEND:20260512T143000Z
-UID:e695d4dec670a42ad10a2b6f461fe952
+UID:fffd0bca8e6b0f6af0eab2d3851b4e79
 DESCRIPTION:This offering is a(n) Clinical Experience - Inpatient\n\nhttps
  ://curriculum.ufhealth.org/events/U20260512O42370
 END:VEVENT
@@ -834,7 +808,7 @@ BEGIN:VEVENT
 SUMMARY:CLG: Inpatient Encounter 3a
 DTSTART:20260512T143000Z
 DTEND:20260512T160000Z
-UID:80b1468befebbe851cc7bd0372270d86
+UID:2d04bf048cd5d240acd8000deac12c94
 DESCRIPTION:This offering is a(n) Clinical Experience - Inpatient\n\nhttps
  ://curriculum.ufhealth.org/events/U20260512O42372
 END:VEVENT
@@ -842,7 +816,7 @@ BEGIN:VEVENT
 SUMMARY:Overview and Introduction to Renal Physiology
 DTSTART:20260512T170000Z
 DTEND:20260512T175000Z
-UID:832098d6f9f55643d5bc0fa7b7ab00a9
+UID:b0b5fa57eaf9f511f183ec2729627c68
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260512O43556
 END:VEVENT
@@ -850,7 +824,7 @@ BEGIN:VEVENT
 SUMMARY:Clearance Concepts
 DTSTART:20260512T180000Z
 DTEND:20260512T185000Z
-UID:1606e9697b6bdc1f2a9fcf3634305237
+UID:b7fa0c7ef1f521ec0cf74230b3ada90f
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260512O43599
 END:VEVENT
@@ -858,7 +832,7 @@ BEGIN:VEVENT
 SUMMARY:Renal Sodium Transport
 DTSTART:20260512T190000Z
 DTEND:20260512T195000Z
-UID:d4b84b60657f2a541c3c1d160db99cca
+UID:541ad8666a9a6048f4d5e176282147a0
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260512O43559
 END:VEVENT
@@ -866,7 +840,7 @@ BEGIN:VEVENT
 SUMMARY:Sodium Balance I
 DTSTART:20260512T200000Z
 DTEND:20260512T205000Z
-UID:790a970b47c82a374d65e8f91d58fee7
+UID:e0869d26c6afe8e20e63028986c65f73
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260512O43552
 END:VEVENT
@@ -874,7 +848,7 @@ BEGIN:VEVENT
 SUMMARY:CLG: Inpatient Encounter 3a
 DTSTART:20260513T130000Z
 DTEND:20260513T143000Z
-UID:1a02bd7176ce8f6f474e5a9651409d5b
+UID:72822fa92f394b9a9170ab86960a03c9
 DESCRIPTION:This offering is a(n) Clinical Experience - Inpatient\n\nhttps
  ://curriculum.ufhealth.org/events/U20260513O42373
 END:VEVENT
@@ -882,7 +856,7 @@ BEGIN:VEVENT
 SUMMARY:CLG: Inpatient Encounter 3a
 DTSTART:20260513T143000Z
 DTEND:20260513T160000Z
-UID:5aa7d848e1705cf59a988e18ab5fe95a
+UID:d1c324a14043da1da6c064985555feee
 DESCRIPTION:This offering is a(n) Clinical Experience - Inpatient\n\nhttps
  ://curriculum.ufhealth.org/events/U20260513O42371
 END:VEVENT
@@ -890,7 +864,7 @@ BEGIN:VEVENT
 SUMMARY:Sodium Balance II
 DTSTART:20260513T170000Z
 DTEND:20260513T175000Z
-UID:deba5ebdd0ac0b5d081020a17341a4fb
+UID:8ae09847fbfc4e9ca2bfd085619df009
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260513O43553
 END:VEVENT
@@ -898,7 +872,7 @@ BEGIN:VEVENT
 SUMMARY:Renal Hemodynamics
 DTSTART:20260513T180000Z
 DTEND:20260513T185000Z
-UID:f2daa90fbdf84bd0f83847472ecbd200
+UID:d6e0a72f435be46cd5c52f5ef946a4e5
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260513O43549
 END:VEVENT
@@ -906,7 +880,7 @@ BEGIN:VEVENT
 SUMMARY:Renal Potassium Handling
 DTSTART:20260513T190000Z
 DTEND:20260513T195000Z
-UID:13d8e5c782d6ad327526ee0d0c8957e5
+UID:d9884cb283c34c7e76cbea5b7b9a3652
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260513O43554
 END:VEVENT
@@ -914,7 +888,7 @@ BEGIN:VEVENT
 SUMMARY:Calcium Homeostasis and Disorders
 DTSTART:20260513T200000Z
 DTEND:20260513T205000Z
-UID:2e813c00728527bf67dc93d42c423b98
+UID:f6f72c8aadcec6b68d3da3a94290006c
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260513O43600
 END:VEVENT
@@ -922,7 +896,7 @@ BEGIN:VEVENT
 SUMMARY:Histology- Questions
 DTSTART:20260514T120000Z
 DTEND:20260514T125000Z
-UID:3acdc38a0826ff260505f80808db830c
+UID:e7ba250b1daaafa940bdbd5075f96bfc
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260514O43598
 END:VEVENT
@@ -930,7 +904,7 @@ BEGIN:VEVENT
 SUMMARY:Concentration and Dilution
 DTSTART:20260514T130000Z
 DTEND:20260514T135000Z
-UID:1b120de80a01fc6202bf1fdc2dffcb3f
+UID:2786f57f2639a7ee66a8ac194001229f
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260514O43561
 END:VEVENT
@@ -938,7 +912,7 @@ BEGIN:VEVENT
 SUMMARY:Potassium Disorders
 DTSTART:20260514T140000Z
 DTEND:20260514T145000Z
-UID:a047fdeab3df693f9a5e04d7882b28b9
+UID:87f53c099e7bf39a40b0b10f1e04ade2
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260514O43563
 END:VEVENT
@@ -946,7 +920,7 @@ BEGIN:VEVENT
 SUMMARY:Calcium and Phosphate Disorders
 DTSTART:20260514T150000Z
 DTEND:20260514T155000Z
-UID:254461b8067f1b5aa23e7d3bbf32ea8a
+UID:138ba2ec4ab65eadb51b7a735881ad11
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260514O43602
 END:VEVENT
@@ -955,7 +929,7 @@ SUMMARY:Discovery Track - Individual Track Activities or MSRP / Independen
  t Study (Spring)
 DTSTART:20260514T170000Z
 DTEND:20260514T190000Z
-UID:a6bd4400c4b371ccc70fcb07839eb498
+UID:6a004b97afc48d99259580364ebf48f1
 DESCRIPTION:This offering is a(n) Self-Directed Learning\n\nhttps://curric
  ulum.ufhealth.org/events/U20260514O44017
 END:VEVENT
@@ -963,7 +937,7 @@ BEGIN:VEVENT
 SUMMARY:KUT Optional Review **Optional**
 DTSTART:20260514T210000Z
 DTEND:20260514T230000Z
-UID:f689bc10afeb13e8021a5df1d4814c6a
+UID:2d327119f99a9cc8d538a0f9406d38f6
 DESCRIPTION:This offering is a(n) Peer Teaching\n\nhttps://curriculum.ufhe
  alth.org/events/U20260514O43594
 END:VEVENT
@@ -971,7 +945,7 @@ BEGIN:VEVENT
 SUMMARY:Sodium Disorders
 DTSTART:20260515T120000Z
 DTEND:20260515T125000Z
-UID:51bda6e6afa28d2f76ddae4bddbc74aa
+UID:797a1561e425c29e468edfe5a7f768c8
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260515O43562
 END:VEVENT
@@ -979,7 +953,7 @@ BEGIN:VEVENT
 SUMMARY:Volume Crisis
 DTSTART:20260515T130000Z
 DTEND:20260515T135000Z
-UID:130b2e8962827875ab7813a32b7f250b
+UID:d11a451981094d3fa65381f33a88277c
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260515O43572
 END:VEVENT
@@ -987,7 +961,7 @@ BEGIN:VEVENT
 SUMMARY:Assessment of Renal Function-Clinical
 DTSTART:20260515T140000Z
 DTEND:20260515T145000Z
-UID:148f3ae4000fb073eacbb1491d00c17b
+UID:3d4c53f7ed2bcb7ef8c3791a26570aad
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260515O43609
 END:VEVENT
@@ -995,7 +969,7 @@ BEGIN:VEVENT
 SUMMARY:Assessment of Renal Function- Laboratory
 DTSTART:20260515T150000Z
 DTEND:20260515T155000Z
-UID:f7cb81bfe1bb374949bc63ca0060fab6
+UID:379c9a88ac59d97b2b1547b1a09bf2f9
 DESCRIPTION:This offering is a(n) Laboratory\n\nhttps://curriculum.ufhealt
  h.org/events/U20260515O43610
 END:VEVENT
@@ -1003,7 +977,7 @@ BEGIN:VEVENT
 SUMMARY:Patient Stigma & Empathetic Care **Required Attendance**
 DTSTART:20260515T170000Z
 DTEND:20260515T175000Z
-UID:5c858eb2eea84140f182102e2ceb57d9
+UID:4bc0cb48a737dbefabb667c2b08d761c
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260515O43149
 END:VEVENT
@@ -1011,7 +985,7 @@ BEGIN:VEVENT
 SUMMARY:Lung Cancer and HIV Patient Panels **Required Attendance**
 DTSTART:20260515T180000Z
 DTEND:20260515T195000Z
-UID:44c0e0f990c107a0ccfc9439f3faef70
+UID:8bf22e9dc23e1a4d8d567fcce3b13bea
 DESCRIPTION:This offering is a(n) Patient Presentation - Faculty\n\nhttps:
  //curriculum.ufhealth.org/events/U20260515O44358
 END:VEVENT
@@ -1019,7 +993,7 @@ BEGIN:VEVENT
 SUMMARY:Renal Embryology
 DTSTART:20260515T200000Z
 DTEND:20260515T205000Z
-UID:a85e9c468fe1b61c64506e241f903c97
+UID:8cd30fe193874d83f0ec9c97a3a4b5f1
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260515O43095
 END:VEVENT
@@ -1027,7 +1001,7 @@ BEGIN:VEVENT
 SUMMARY:Quiz I (Download Opens)
 DTSTART:20260515T210000Z
 DTEND:20260515T213000Z
-UID:2313fcb094d3bec26e57582ad6bf9c5c
+UID:74986191686a6fab3902f81b7317ce28
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260515O4358
  5
@@ -1036,7 +1010,7 @@ BEGIN:VEVENT
 SUMMARY:Acid-Base Concepts
 DTSTART:20260518T120000Z
 DTEND:20260518T125000Z
-UID:8ee946f3d17b3fe3d42ba9662555e856
+UID:76bf279da2643c74005104bd74114fa8
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260518O43601
 END:VEVENT
@@ -1044,7 +1018,7 @@ BEGIN:VEVENT
 SUMMARY:Acid-Base Disorders
 DTSTART:20260518T130000Z
 DTEND:20260518T135000Z
-UID:dbdf4edc1962a86a19e66b6da7072527
+UID:977816c8771e0e846f36ebcdb990581f
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260518O43603
 END:VEVENT
@@ -1052,7 +1026,7 @@ BEGIN:VEVENT
 SUMMARY:Sodium Disorders: Clinical Cases
 DTSTART:20260518T140000Z
 DTEND:20260518T145000Z
-UID:8ec9d31329bde8f4010c3f76152b37a6
+UID:92ffa65265199e598d27b502a79c1317
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260518O43607
 END:VEVENT
@@ -1060,7 +1034,7 @@ BEGIN:VEVENT
 SUMMARY:Clinical Glomerular Syndromes
 DTSTART:20260518T150000Z
 DTEND:20260518T155000Z
-UID:476fba34f76ecd535b6dbf56b1c0017e
+UID:5853e1b321651586298df855cd9b78d1
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260518O43555
 END:VEVENT
@@ -1068,7 +1042,7 @@ BEGIN:VEVENT
 SUMMARY:Clinical Skills Exam 1B **See Schedule in Canvas**
 DTSTART:20260518T170000Z
 DTEND:20260518T210000Z
-UID:0ab598e8df88b639eef32634f033811f
+UID:2f931eab82c8401b9b40d2fa37a2d664
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Clini
  cal Performance [formative]\n\nhttps://curriculum.ufhealth.org/events/U202
  60518O43130
@@ -1077,7 +1051,7 @@ BEGIN:VEVENT
 SUMMARY:KUT Optional Review **Optional**
 DTSTART:20260518T210000Z
 DTEND:20260518T230000Z
-UID:312fa50563e077b3703be4606c0b85db
+UID:d804a32f211b5606528793facbef543b
 DESCRIPTION:This offering is a(n) Peer Teaching\n\nhttps://curriculum.ufhe
  alth.org/events/U20260518O43595
 END:VEVENT
@@ -1085,7 +1059,7 @@ BEGIN:VEVENT
 SUMMARY:Clinical Skills Exam 1B **See Schedule in Canvas**
 DTSTART:20260519T120000Z
 DTEND:20260519T160000Z
-UID:c26cefd649256a269c6864da10e647c7
+UID:7cb0959cae05d9b3a0a613ea49dc95fb
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Clini
  cal Performance [formative]\n\nhttps://curriculum.ufhealth.org/events/U202
  60519O43133
@@ -1094,7 +1068,7 @@ BEGIN:VEVENT
 SUMMARY:CLG: Inpatient Encounter 3b
 DTSTART:20260519T130000Z
 DTEND:20260519T143000Z
-UID:8361b1670317f0504b0e8fde234f7032
+UID:e703f9dac44439f585cf4d0081e620e9
 DESCRIPTION:This offering is a(n) Clinical Experience - Inpatient\n\nhttps
  ://curriculum.ufhealth.org/events/U20260519O42416
 END:VEVENT
@@ -1102,7 +1076,7 @@ BEGIN:VEVENT
 SUMMARY:CLG: Inpatient Encounter 3b
 DTSTART:20260519T143000Z
 DTEND:20260519T160000Z
-UID:c22c883617044e7fd8d236f849c90cf5
+UID:02ac69ecf1e57eb77701fb4cdc57c519
 DESCRIPTION:This offering is a(n) Clinical Experience - Inpatient\n\nhttps
  ://curriculum.ufhealth.org/events/U20260519O44278
 END:VEVENT
@@ -1110,7 +1084,7 @@ BEGIN:VEVENT
 SUMMARY:Glomerular Disease I
 DTSTART:20260519T170000Z
 DTEND:20260519T175000Z
-UID:9f313109cc227754630d268b75d57af3
+UID:96795168b5d12c7ba4f63f1d5f1fba92
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260519O43550
 END:VEVENT
@@ -1118,7 +1092,7 @@ BEGIN:VEVENT
 SUMMARY:Glomerular Disease II
 DTSTART:20260519T180000Z
 DTEND:20260519T185000Z
-UID:d6511d2ebef60c2fe07276bf29d04f63
+UID:f42a1f1354a66acd3921e76a1bea7e35
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260519O43551
 END:VEVENT
@@ -1126,7 +1100,7 @@ BEGIN:VEVENT
 SUMMARY:Glomerular Diseases - Treatment
 DTSTART:20260519T190000Z
 DTEND:20260519T195000Z
-UID:98a7f6005431c7b0cf375972eaaa7773
+UID:66cdd2f42e25cfff437b273b9ed60b85
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260519O43614
 END:VEVENT
@@ -1134,7 +1108,7 @@ BEGIN:VEVENT
 SUMMARY:Interstitial Diseases
 DTSTART:20260519T200000Z
 DTEND:20260519T205000Z
-UID:d7966ac4145581ff1d495d3f8a2c217c
+UID:2d28a916ae038a7e1019b99dd9707724
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260519O43564
 END:VEVENT
@@ -1142,7 +1116,7 @@ BEGIN:VEVENT
 SUMMARY:Clinical Skills Exam 1B **See Schedule in Canvas**
 DTSTART:20260520T120000Z
 DTEND:20260520T160000Z
-UID:acddbb7f7b416d7fa566810129de3ab0
+UID:9033b692f470510447a47342928821ca
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Clini
  cal Performance [formative]\n\nhttps://curriculum.ufhealth.org/events/U202
  60520O43129
@@ -1151,7 +1125,7 @@ BEGIN:VEVENT
 SUMMARY:CLG: Inpatient Encounter 3b
 DTSTART:20260520T130000Z
 DTEND:20260520T143000Z
-UID:b5205bb51775d904646cda2baf2109b5
+UID:634cba3b30f004ea77b9c68ac1207b05
 DESCRIPTION:This offering is a(n) Clinical Experience - Inpatient\n\nhttps
  ://curriculum.ufhealth.org/events/U20260520O42417
 END:VEVENT
@@ -1159,7 +1133,7 @@ BEGIN:VEVENT
 SUMMARY:CLG: Inpatient Encounter 3b
 DTSTART:20260520T143000Z
 DTEND:20260520T160000Z
-UID:c3cef8ac6512265726121a0b79b5e2cf
+UID:a97b07ae9b7f88b2df1168230bb47fbf
 DESCRIPTION:This offering is a(n) Clinical Experience - Inpatient\n\nhttps
  ://curriculum.ufhealth.org/events/U20260520O44279
 END:VEVENT
@@ -1167,7 +1141,7 @@ BEGIN:VEVENT
 SUMMARY:Acute Kidney Injury
 DTSTART:20260520T170000Z
 DTEND:20260520T175000Z
-UID:e5283364b6f2def6cb1d3ee76d283907
+UID:dcf62337814c616e14aecc5401564be9
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260520O43581
 END:VEVENT
@@ -1175,7 +1149,7 @@ BEGIN:VEVENT
 SUMMARY:Chronic Kidney Disease
 DTSTART:20260520T180000Z
 DTEND:20260520T185000Z
-UID:6d8aeb307a8a31eab6077dc46752ffdd
+UID:5f421629ed72fb8422a440577e907028
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260520O43588
 END:VEVENT
@@ -1183,7 +1157,7 @@ BEGIN:VEVENT
 SUMMARY:Cystic Diseases of the Kidney **Do On Your Own**
 DTSTART:20260520T190000Z
 DTEND:20260520T195000Z
-UID:fa3390620805458fa8ce5c99cddbd198
+UID:c289bc8dbe3d6098cd3915e0be646f43
 DESCRIPTION:This offering is a(n) Independent Learning\n\nhttps://curricul
  um.ufhealth.org/events/U20260520O43560
 END:VEVENT
@@ -1191,7 +1165,7 @@ BEGIN:VEVENT
 SUMMARY:Imaging of the Kidney and Urinary Tract
 DTSTART:20260520T200000Z
 DTEND:20260520T205000Z
-UID:e78bafa36a24d7375f084fe28d82a71b
+UID:81c3dc32feae95c6debd684c165576d8
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260520O43624
 END:VEVENT
@@ -1199,7 +1173,7 @@ BEGIN:VEVENT
 SUMMARY:KUT Optional Review **Optional**
 DTSTART:20260520T210000Z
 DTEND:20260520T230000Z
-UID:d152c904d9f8450fcc4f1ec5520a4406
+UID:a916bd5a37fe1205ed1fe1b59a30b10a
 DESCRIPTION:This offering is a(n) Peer Teaching\n\nhttps://curriculum.ufhe
  alth.org/events/U20260520O43590
 END:VEVENT
@@ -1207,7 +1181,7 @@ BEGIN:VEVENT
 SUMMARY:Clinical Skills Exam 1B **See Schedule in Canvas**
 DTSTART:20260521T120000Z
 DTEND:20260521T160000Z
-UID:acf7cdeb7e65a5e3fe45a04dbf48a681
+UID:a549c61e0b48d202eedf24fd573389bd
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Clini
  cal Performance [formative]\n\nhttps://curriculum.ufhealth.org/events/U202
  60521O44374
@@ -1216,7 +1190,7 @@ BEGIN:VEVENT
 SUMMARY:Clinical Skills Exam 1B **See Schedule in Canvas**
 DTSTART:20260521T170000Z
 DTEND:20260521T210000Z
-UID:ff3050129cd52e7083abeac6974f6437
+UID:2b68f53335928cd54fa3943976cc3acd
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Clini
  cal Performance [formative]\n\nhttps://curriculum.ufhealth.org/events/U202
  60521O44375
@@ -1225,7 +1199,7 @@ BEGIN:VEVENT
 SUMMARY:KUT Optional Review **Optional**
 DTSTART:20260521T210000Z
 DTEND:20260521T230000Z
-UID:87a2b2e2992e7ae759002ffd5b866da3
+UID:9283d4ed63e67e44ea21ef913dd908a3
 DESCRIPTION:This offering is a(n) Peer Teaching\n\nhttps://curriculum.ufhe
  alth.org/events/U20260521O43591
 END:VEVENT
@@ -1233,7 +1207,7 @@ BEGIN:VEVENT
 SUMMARY:Renal Calculations
 DTSTART:20260522T120000Z
 DTEND:20260522T125000Z
-UID:d183cef1a193d85811ac9d29c1f060ec
+UID:6f6bed1cb653c11a231dcf8dc32be0aa
 DESCRIPTION:This offering is a(n) Laboratory\n\nhttps://curriculum.ufhealt
  h.org/events/U20260522O43608
 END:VEVENT
@@ -1241,7 +1215,7 @@ BEGIN:VEVENT
 SUMMARY:Acid Base Lab
 DTSTART:20260522T130000Z
 DTEND:20260522T135000Z
-UID:43e9c801d20952ce39387f874d4dbde1
+UID:5ad62728236edef194bccd3725d458eb
 DESCRIPTION:This offering is a(n) Laboratory\n\nhttps://curriculum.ufhealt
  h.org/events/U20260522O43583
 END:VEVENT
@@ -1249,7 +1223,7 @@ BEGIN:VEVENT
 SUMMARY:Glomerular Disease Lab I: USMLE Format
 DTSTART:20260522T140000Z
 DTEND:20260522T145000Z
-UID:fdca6e00ef6ecd609e2860eb567ee856
+UID:1e86ce2bccb16e2784097be7254f05a1
 DESCRIPTION:This offering is a(n) Laboratory\n\nhttps://curriculum.ufhealt
  h.org/events/U20260522O43557
 END:VEVENT
@@ -1257,7 +1231,7 @@ BEGIN:VEVENT
 SUMMARY:Glomerular Disease Lab II: USMLE Format
 DTSTART:20260522T150000Z
 DTEND:20260522T155000Z
-UID:6377412477ea3afa6bbd3dd0176cb176
+UID:585cc88a65483e59da11b2f40853575a
 DESCRIPTION:This offering is a(n) Laboratory\n\nhttps://curriculum.ufhealt
  h.org/events/U20260522O43558
 END:VEVENT
@@ -1265,7 +1239,7 @@ BEGIN:VEVENT
 SUMMARY:Clinical Skills Exam 1B **See Schedule in Canvas**
 DTSTART:20260522T170000Z
 DTEND:20260522T210000Z
-UID:2cd3946a1367603acb4a4804a583382a
+UID:f52cb2608a2e63fc7a1a6cb5238e4c63
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Clini
  cal Performance [formative]\n\nhttps://curriculum.ufhealth.org/events/U202
  60522O43134
@@ -1274,7 +1248,7 @@ BEGIN:VEVENT
 SUMMARY:Quiz II (Download Opens)
 DTSTART:20260522T210000Z
 DTEND:20260522T213000Z
-UID:4a10d9bebbccc44ff5161491156395f5
+UID:f5bfab8b74270046995ee9c71581a63e
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260522O4358
  6
@@ -1283,7 +1257,7 @@ BEGIN:VEVENT
 SUMMARY:Memorial Day
 DTSTART:20260525T120000Z
 DTEND:20260525T210000Z
-UID:0420040653273f048e0ce8c7cc10dbb6
+UID:1e420ea3cd941e3f53ae9ee99adc1ee7
 DESCRIPTION:This offering is a(n) Holiday\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260525O41632
 END:VEVENT
@@ -1291,7 +1265,7 @@ BEGIN:VEVENT
 SUMMARY:Renal Case/Hyponatremia/ICM Summative Activity
 DTSTART:20260526T130000Z
 DTEND:20260526T160000Z
-UID:e68829893fe79e3208761af21899ecb6
+UID:eb53ab1e380adb42988526f97385908f
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260526O42422
 END:VEVENT
@@ -1299,7 +1273,7 @@ BEGIN:VEVENT
 SUMMARY:Hypertension - Pathophysiology
 DTSTART:20260526T170000Z
 DTEND:20260526T175000Z
-UID:790fb4fed0cfb462bf4777a7717b5679
+UID:cf3c00272099324b2977d88578f5088a
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260526O43616
 END:VEVENT
@@ -1307,7 +1281,7 @@ BEGIN:VEVENT
 SUMMARY:Hypertension - Pharmacologic Therapy
 DTSTART:20260526T180000Z
 DTEND:20260526T185000Z
-UID:6b6e8c883e5887c3c7a0d776128a7290
+UID:631db0a533bffc9fb36f4c47a5ae0695
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260526O43571
 END:VEVENT
@@ -1315,7 +1289,7 @@ BEGIN:VEVENT
 SUMMARY:Diuretics
 DTSTART:20260526T190000Z
 DTEND:20260526T195000Z
-UID:d3597fa122b5f266d8a39fb54d5a4d2e
+UID:af45186ec61af56471ff305e25f74f56
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260526O43565
 END:VEVENT
@@ -1323,7 +1297,7 @@ BEGIN:VEVENT
 SUMMARY:Hypertension - Genetic Disorders
 DTSTART:20260526T200000Z
 DTEND:20260526T205000Z
-UID:0e3b723b3c4f27a7e665e7a9bf2a607e
+UID:e7c798f9e2b77823e738e73782d01a6b
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260526O43570
 END:VEVENT
@@ -1331,7 +1305,7 @@ BEGIN:VEVENT
 SUMMARY:Renal Case/Hyponatremia/ICM Summative Activity
 DTSTART:20260527T130000Z
 DTEND:20260527T160000Z
-UID:01e2441a3e7edfcd64f8ec35c5561185
+UID:0f0166851f5b5c09d6de1085c818a14b
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260527O42423
 END:VEVENT
@@ -1339,7 +1313,7 @@ BEGIN:VEVENT
 SUMMARY:Hypertension - Clinical
 DTSTART:20260527T170000Z
 DTEND:20260527T175000Z
-UID:4bd2f0c87aff4007b6198cf89a2a666f
+UID:dd9f747eaf40b9a500f0fc76cce5036e
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260527O43569
 END:VEVENT
@@ -1347,7 +1321,7 @@ BEGIN:VEVENT
 SUMMARY:SLE and the Kidney
 DTSTART:20260527T180000Z
 DTEND:20260527T185000Z
-UID:796c423f5c4a8a7ffce27cd265ef76a2
+UID:802a721153bbd76eb6c3874a00093cfb
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260527O43611
 END:VEVENT
@@ -1355,7 +1329,7 @@ BEGIN:VEVENT
 SUMMARY:Vasculitis
 DTSTART:20260527T190000Z
 DTEND:20260527T195000Z
-UID:02dd7185d8cdbd31f47b08dfe854189e
+UID:d0f801f9e077e520951ae0537726c44f
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260527O43574
 END:VEVENT
@@ -1363,7 +1337,7 @@ BEGIN:VEVENT
 SUMMARY:Kidney Tumors
 DTSTART:20260527T200000Z
 DTEND:20260527T205000Z
-UID:7052d3b2c321e7cd5f48252f90488080
+UID:c04761801897294a88898f6d45ed96b9
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260527O43605
 END:VEVENT
@@ -1371,7 +1345,7 @@ BEGIN:VEVENT
 SUMMARY:Bladder and Prostate Pathology
 DTSTART:20260528T120000Z
 DTEND:20260528T125000Z
-UID:d4bc61bcb6c5ca762227784a89221726
+UID:7f6052118d03c590a4405603a3caa95b
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260528O43567
 END:VEVENT
@@ -1379,7 +1353,7 @@ BEGIN:VEVENT
 SUMMARY:Male GU Cancer
 DTSTART:20260528T130000Z
 DTEND:20260528T135000Z
-UID:00fb30b365e75b39113a5ef7e8171ed5
+UID:0d113e385ab4c11815546d4e6802955c
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260528O43584
 END:VEVENT
@@ -1387,7 +1361,7 @@ BEGIN:VEVENT
 SUMMARY:Renal Replacement Therapy
 DTSTART:20260528T140000Z
 DTEND:20260528T145000Z
-UID:958c2b8f8e600e6a50c12b2b91b020fb
+UID:c2ca61dfeaa457771340c9006591fa4f
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260528O43577
 END:VEVENT
@@ -1395,7 +1369,7 @@ BEGIN:VEVENT
 SUMMARY:Kidney and Medications
 DTSTART:20260528T150000Z
 DTEND:20260528T155000Z
-UID:6749498edfc41caaad1d05dda44b2ea6
+UID:b07d11b61519d9fb4720f398b4088501
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260528O43623
 END:VEVENT
@@ -1404,7 +1378,7 @@ SUMMARY:Discovery Track - Individual Track Activities or MSRP / Independen
  t Study (Spring)
 DTSTART:20260528T170000Z
 DTEND:20260528T190000Z
-UID:fe4c1d12dad28e3f1dc74337cb043dd6
+UID:fb87a125d14825d8996303db23101f4b
 DESCRIPTION:This offering is a(n) Self-Directed Learning\n\nhttps://curric
  ulum.ufhealth.org/events/U20260528O44018
 END:VEVENT
@@ -1412,7 +1386,7 @@ BEGIN:VEVENT
 SUMMARY:KUT Optional Review **Optional**
 DTSTART:20260528T210000Z
 DTEND:20260528T230000Z
-UID:e9f0dcfdc13750347a60c51c561dc2c0
+UID:78775e867db6644cfb95a57dedebae88
 DESCRIPTION:This offering is a(n) Peer Teaching\n\nhttps://curriculum.ufhe
  alth.org/events/U20260528O43589
 END:VEVENT
@@ -1420,7 +1394,7 @@ BEGIN:VEVENT
 SUMMARY:KUT Tumor Lab
 DTSTART:20260529T120000Z
 DTEND:20260529T125000Z
-UID:cf3a4dcd34916a8c9e7f13063963c51b
+UID:102abdf3fbda5ab18a3d702127d3528e
 DESCRIPTION:This offering is a(n) Laboratory\n\nhttps://curriculum.ufhealt
  h.org/events/U20260529O43568
 END:VEVENT
@@ -1428,7 +1402,7 @@ BEGIN:VEVENT
 SUMMARY:Tubular\, Interstitial\, and Systemic Diseases Lab
 DTSTART:20260529T130000Z
 DTEND:20260529T135000Z
-UID:47017dd96b6062d2c446e9d3bfcaacd0
+UID:618cbc735a99ade523430df2a31b2872
 DESCRIPTION:This offering is a(n) Laboratory\n\nhttps://curriculum.ufhealt
  h.org/events/U20260529O43582
 END:VEVENT
@@ -1436,7 +1410,7 @@ BEGIN:VEVENT
 SUMMARY:USMLE - Type Practice Questions
 DTSTART:20260529T140000Z
 DTEND:20260529T145000Z
-UID:0aa3bbb5cababae778b4301d0bbabbf7
+UID:a737fd5f93707209354bb5a76b4108c9
 DESCRIPTION:This offering is a(n) Laboratory\n\nhttps://curriculum.ufhealt
  h.org/events/U20260529O43620
 END:VEVENT
@@ -1444,7 +1418,7 @@ BEGIN:VEVENT
 SUMMARY:Patient Presentation **Required Attendance**
 DTSTART:20260529T150000Z
 DTEND:20260529T155000Z
-UID:5d7ed780eec1e7491ad862fb7d21e6cc
+UID:1ebb7b492379bc315ad0031d091018e4
 DESCRIPTION:This offering is a(n) Patient Presentation - Faculty\n\nhttps:
  //curriculum.ufhealth.org/events/U20260529O43618
 END:VEVENT
@@ -1452,7 +1426,7 @@ BEGIN:VEVENT
 SUMMARY:Distributive Justice **Required Attendance**
 DTSTART:20260529T170000Z
 DTEND:20260529T185000Z
-UID:007a4173ab762e8132db4a7679da29ab
+UID:77aee212f6ba789cd19ea59a7ed1a712
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260529O43146
 END:VEVENT
@@ -1460,7 +1434,7 @@ BEGIN:VEVENT
 SUMMARY:ICM1B Quiz 11 (Download Opens)
 DTSTART:20260529T210000Z
 DTEND:20260529T213000Z
-UID:fea3f1bc2e5941406b19adf3d2b2e806
+UID:8069140505f546fd32a73a6252997eee
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260529O4322
  2
@@ -1469,7 +1443,7 @@ BEGIN:VEVENT
 SUMMARY:Quiz III (Download Opens)
 DTSTART:20260529T210000Z
 DTEND:20260529T213000Z
-UID:5bf3508422168019257632985d0d0159
+UID:fc0f2558c95e160c454f8147de79efe9
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260529O4361
  2
@@ -1478,7 +1452,7 @@ BEGIN:VEVENT
 SUMMARY:Infections of the GU Tract
 DTSTART:20260601T120000Z
 DTEND:20260601T125000Z
-UID:e1a98ac5af58ee24b0e9a180697ff6b8
+UID:9b77db37cc7c3abaeabf3983f4e23c77
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260601O43604
 END:VEVENT
@@ -1486,7 +1460,7 @@ BEGIN:VEVENT
 SUMMARY:Diabetes and the Kidney
 DTSTART:20260601T130000Z
 DTEND:20260601T135000Z
-UID:c1a6e5ad028ce25df877ae12c7de15c0
+UID:66392e2b6cf4130b552e69e4fdf42623
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260601O43573
 END:VEVENT
@@ -1494,7 +1468,7 @@ BEGIN:VEVENT
 SUMMARY:Cardio and Hepatorenal Syndrome
 DTSTART:20260601T140000Z
 DTEND:20260601T145000Z
-UID:6065cc9b5b4dc5e3130cc8977668d03c
+UID:5ca8603c21b0f696eb774061caba6aad
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260601O43575
 END:VEVENT
@@ -1502,7 +1476,7 @@ BEGIN:VEVENT
 SUMMARY:Paraproteinemia
 DTSTART:20260601T150000Z
 DTEND:20260601T155000Z
-UID:a5a05c12229b20d53c9fe06e5255b8af
+UID:c4b330f7bbf883a0ec3c02eb8ff2d23a
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260601O43566
 END:VEVENT
@@ -1510,7 +1484,7 @@ BEGIN:VEVENT
 SUMMARY:KUT Optional Review **Optional**
 DTSTART:20260601T210000Z
 DTEND:20260601T230000Z
-UID:a8db14bbc5e5fdab5403caf682fb5058
+UID:5cb90ff3de0a2b86570e28d787b6224d
 DESCRIPTION:This offering is a(n) Peer Teaching\n\nhttps://curriculum.ufhe
  alth.org/events/U20260601O43592
 END:VEVENT
@@ -1518,7 +1492,7 @@ BEGIN:VEVENT
 SUMMARY:CLG: HSS: Patient Safety: High Value Care/Peds: Nephrotic Syndrome
 DTSTART:20260602T130000Z
 DTEND:20260602T160000Z
-UID:cedd51517bb199cdeea4a2bfeaa1c983
+UID:5eb8403f5aeadd4aee02ef7baa07e335
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260602O42402
 END:VEVENT
@@ -1526,7 +1500,7 @@ BEGIN:VEVENT
 SUMMARY:Kidney Stones
 DTSTART:20260602T170000Z
 DTEND:20260602T175000Z
-UID:8aa5f26577018a6376a652ae3b0128dd
+UID:866b83b3929659967933a1eaebc48034
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260602O43576
 END:VEVENT
@@ -1534,7 +1508,7 @@ BEGIN:VEVENT
 SUMMARY:Kidney Transplantation
 DTSTART:20260602T180000Z
 DTEND:20260602T185000Z
-UID:d40629fc4e6526b7353b06d957accf03
+UID:7d08ae7700223e1ffaf5474da7438c3a
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260602O43622
 END:VEVENT
@@ -1542,7 +1516,7 @@ BEGIN:VEVENT
 SUMMARY:Statistics and Nephrology
 DTSTART:20260602T190000Z
 DTEND:20260602T195000Z
-UID:197979a1d48540c63d9ad42ff5d23771
+UID:31c72c21f5b9fcb7a3e9a70130951652
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260602O43615
 END:VEVENT
@@ -1550,7 +1524,7 @@ BEGIN:VEVENT
 SUMMARY:Review: Renal Physiology
 DTSTART:20260602T200000Z
 DTEND:20260602T205000Z
-UID:814da8e04e19f9a82bb5d2571c568bca
+UID:aaf4cf7b45fe0e9e620f558567b5fef7
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260602O43578
 END:VEVENT
@@ -1558,7 +1532,7 @@ BEGIN:VEVENT
 SUMMARY:CLG: HSS: Patient Safety: High Value Care/Peds: Nephrotic Syndrome
 DTSTART:20260603T130000Z
 DTEND:20260603T160000Z
-UID:7cabf2633258423dec4a81f76eb50bd6
+UID:99022a480055268a71b56b98b7b9a631
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260603O42403
 END:VEVENT
@@ -1566,7 +1540,7 @@ BEGIN:VEVENT
 SUMMARY:Review: Renal Pathology
 DTSTART:20260603T170000Z
 DTEND:20260603T175000Z
-UID:7383cdb7a9ee6373a38bc225b545ed55
+UID:d81dc88c1d52d6005dba155903cfcaf8
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260603O43579
 END:VEVENT
@@ -1574,7 +1548,7 @@ BEGIN:VEVENT
 SUMMARY:Review: Clinical Nephrology
 DTSTART:20260603T180000Z
 DTEND:20260603T185000Z
-UID:c581349c88a5f18f094d7c42dbe8aeef
+UID:10b6b125f9a5064cfce4091c5b0b0fb1
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260603O43606
 END:VEVENT
@@ -1582,7 +1556,7 @@ BEGIN:VEVENT
 SUMMARY:USMLE - Type Practice Questions
 DTSTART:20260603T190000Z
 DTEND:20260603T195000Z
-UID:536b9575ee755ba17d1e6ede6bce4585
+UID:016d590754af0ac5dda194273c0c8ea9
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260603O43621
 END:VEVENT
@@ -1590,7 +1564,7 @@ BEGIN:VEVENT
 SUMMARY:USMLE - Type Practice Questions
 DTSTART:20260603T200000Z
 DTEND:20260603T205000Z
-UID:4e558fa708bcf612a964cf0c35823be3
+UID:99cc7577159c87649cacaa5cc15879d5
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260603O43619
 END:VEVENT
@@ -1598,7 +1572,7 @@ BEGIN:VEVENT
 SUMMARY:KUT Optional Review **Optional**
 DTSTART:20260603T210000Z
 DTEND:20260603T230000Z
-UID:05a6c5c5e156a45ee662ade1149c3f51
+UID:e7088eea4777058f59b4cd49ff97ee46
 DESCRIPTION:This offering is a(n) Peer Teaching\n\nhttps://curriculum.ufhe
  alth.org/events/U20260603O43593
 END:VEVENT
@@ -1606,7 +1580,7 @@ BEGIN:VEVENT
 SUMMARY:Exam
 DTSTART:20260605T120000Z
 DTEND:20260605T153000Z
-UID:18cdd8225a6d5e8411625729855c2a4b
+UID:5512fadf0908e81a1656f99d988efe53
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260605O4358
  0
@@ -1615,7 +1589,7 @@ BEGIN:VEVENT
 SUMMARY:Post-Exam Review **Immediate Release**
 DTSTART:20260605T153000Z
 DTEND:20260605T160000Z
-UID:27d26eaa916b022ab056796644411723
+UID:6bfae5e16bdb9a1e776b8e9e19702993
 DESCRIPTION:This offering is a(n) Self-Assessment\n\nhttps://curriculum.uf
  health.org/events/U20260605O43587
 END:VEVENT
@@ -1623,7 +1597,7 @@ BEGIN:VEVENT
 SUMMARY:ICM1B Final Exam
 DTSTART:20260605T180000Z
 DTEND:20260605T203000Z
-UID:419bfcd998f75a6301995a40117b9080
+UID:ee487193291256ba07a1a11ef20d51dd
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260605O4308
  1
@@ -1632,7 +1606,7 @@ BEGIN:VEVENT
 SUMMARY:ICM1B Final Exam Post-exam Review **Immediate Release**
 DTSTART:20260605T203000Z
 DTEND:20260605T210000Z
-UID:0c967ddc3bb5491e41d97caa8fcb2c76
+UID:6ba2e54155bed4be7cc3eb9c1173552b
 DESCRIPTION:This offering is a(n) Self-Assessment\n\nhttps://curriculum.uf
  health.org/events/U20260605O43082
 END:VEVENT
@@ -1640,7 +1614,7 @@ BEGIN:VEVENT
 SUMMARY:Learning Journal Assignment (Due 6/5 at 11:59 PM)
 DTSTART:20260605T210000Z
 DTEND:20260605T213000Z
-UID:becaee56fef7c293bfdaf8916dde3882
+UID:256219d16f0564981222e39dfc949bde
 DESCRIPTION:This offering is a(n) Deadline\n\nhttps://curriculum.ufhealth.
  org/events/U20260605O44388
 END:VEVENT
@@ -1648,7 +1622,7 @@ BEGIN:VEVENT
 SUMMARY:EAC 1B Reflection (Due 6/5 at 11:59 PM)
 DTSTART:20260605T210000Z
 DTEND:20260605T213000Z
-UID:11408105b747aca12a4ffaf1ff7417b2
+UID:2027a1ccbf419bc33770d5682f712b09
 DESCRIPTION:This offering is a(n) Deadline\n\nhttps://curriculum.ufhealth.
  org/events/U20260605O44389
 END:VEVENT
@@ -1656,7 +1630,7 @@ BEGIN:VEVENT
 SUMMARY:NBME Customized Assessment
 DTSTART:20260608T120000Z
 DTEND:20260608T171500Z
-UID:e382843ea800fce662e23d1eb49ae5f0
+UID:63d89f69a4008da799190f91d258b4fb
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Writt
  en/Computer-based [formative]\n\nhttps://curriculum.ufhealth.org/events/U2
  0260608O41620
@@ -1665,7 +1639,7 @@ BEGIN:VEVENT
 SUMMARY:CLG1: 1:1 End of Semester Feedback on Zoom
 DTSTART:20260609T130000Z
 DTEND:20260609T160000Z
-UID:f81d4cd1b5cb25bdce52f06eb6dd57fe
+UID:996f06486674d9533a6e8f5302d78fbb
 DESCRIPTION:This offering is a(n) Narrative Assessment [formative]\n\nhttp
  s://curriculum.ufhealth.org/events/U20260609O44391
 END:VEVENT
@@ -1673,7 +1647,7 @@ BEGIN:VEVENT
 SUMMARY:CLG1: 1:1 End of Semester Feedback on Zoom
 DTSTART:20260610T130000Z
 DTEND:20260610T160000Z
-UID:97570f6a5f1f0f630191e22cb5d008bb
+UID:2e709afc2cdb74c6596f513f700ec491
 DESCRIPTION:This offering is a(n) Narrative Assessment [formative]\n\nhttp
  s://curriculum.ufhealth.org/events/U20260610O44392
 END:VEVENT
@@ -1681,7 +1655,7 @@ BEGIN:VEVENT
 SUMMARY:Independence Day
 DTSTART:20260704T120000Z
 DTEND:20260704T210000Z
-UID:dffda8938826a26f36263d6f989d3535
+UID:7c95e6faa9f0d0c8a894902bf80b566a
 DESCRIPTION:This offering is a(n) Holiday\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260704O41629
 END:VEVENT
@@ -1689,7 +1663,7 @@ BEGIN:VEVENT
 SUMMARY:Fall Classes Begin
 DTSTART:20260817T113000Z
 DTEND:20260817T120000Z
-UID:a5ee3fda57b21a03bcebde8cc2fda1f6
+UID:1328ecc38fc7f7e2d13428109a6dc5a6
 DESCRIPTION:This offering is a(n) Participation\n\nhttps://curriculum.ufhe
  alth.org/events/U20260817O44686
 END:VEVENT
@@ -1697,7 +1671,7 @@ BEGIN:VEVENT
 SUMMARY:Introduction Language of Dermatology and Dermatopathology
 DTSTART:20260817T120000Z
 DTEND:20260817T125000Z
-UID:89a47ee54ef745be786454dc488be4a3
+UID:8332224dc5a15fd936ca83521835580b
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260817O45141
 END:VEVENT
@@ -1705,7 +1679,7 @@ BEGIN:VEVENT
 SUMMARY:Dermatology Therapeutics
 DTSTART:20260817T130000Z
 DTEND:20260817T135000Z
-UID:d5fa71de6c4ac65d02f1c7b305f3ceb0
+UID:dbb7354f8ba8eb030f218a7ab4e09ea3
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260817O45142
 END:VEVENT
@@ -1713,7 +1687,7 @@ BEGIN:VEVENT
 SUMMARY:Dermatology Lab 1 **Highly Encouraged Attendance**
 DTSTART:20260817T140000Z
 DTEND:20260817T145000Z
-UID:ed2c9aa83a4f175107fd45d10726be6f
+UID:1e275152b3be33ce1577320fa0bb391a
 DESCRIPTION:This offering is a(n) Laboratory\n\nhttps://curriculum.ufhealt
  h.org/events/U20260817O45145
 END:VEVENT
@@ -1721,7 +1695,7 @@ BEGIN:VEVENT
 SUMMARY:Dermatology Lab 1 **Highly Encouraged Attendance**
 DTSTART:20260817T150000Z
 DTEND:20260817T155000Z
-UID:3138c26649a58cbac70fdf915805625e
+UID:b05256cd32c03880463fd8bdd41befef
 DESCRIPTION:This offering is a(n) Laboratory\n\nhttps://curriculum.ufhealt
  h.org/events/U20260817O45146
 END:VEVENT
@@ -1729,7 +1703,7 @@ BEGIN:VEVENT
 SUMMARY:Introduction to Clinical Medicine 2A **Required Attendance**
 DTSTART:20260817T170000Z
 DTEND:20260817T175000Z
-UID:fec7fa0998dc2de273f462b3de7bdda6
+UID:01c5b23a992464b161857ec8851752ab
 DESCRIPTION:This offering is a(n) Lecture\nAttendance is Required\n\nhttps
  ://curriculum.ufhealth.org/events/U20260817O46226
 END:VEVENT
@@ -1737,7 +1711,7 @@ BEGIN:VEVENT
 SUMMARY:MSK Exam
 DTSTART:20260817T180000Z
 DTEND:20260817T195000Z
-UID:aaa387638a61663af6c4d862c274f494
+UID:6852bf1f996c963c861e9f1c23a85429
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260817O46287
 END:VEVENT
@@ -1745,7 +1719,7 @@ BEGIN:VEVENT
 SUMMARY:MSK Radiology
 DTSTART:20260817T200000Z
 DTEND:20260817T205000Z
-UID:ec175a4915988d7b1a068d0cf06a1700
+UID:2f55534b26380c3c906ee9f24a009686
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260817O46288
 END:VEVENT
@@ -1753,7 +1727,7 @@ BEGIN:VEVENT
 SUMMARY:HSS Orientation **Required Attendance**
 DTSTART:20260818T120000Z
 DTEND:20260818T125000Z
-UID:bc260b731c81e6976cd1e5473c1deec4
+UID:7e2f4ad721f0dff9292f9813439df359
 DESCRIPTION:This offering is a(n) Lecture\nAttendance is Required\nSession
   has Learning Materials\n\nhttps://curriculum.ufhealth.org/events/U2026081
  8O45756
@@ -1762,7 +1736,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Expectations/DiffDx & Oral Presentation Case 1
 DTSTART:20260818T130000Z
 DTEND:20260818T160000Z
-UID:43729c415d464c5e90c5461bf1e91deb
+UID:07c0fca260acb1f0dfeae75e7ac92b09
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260818O45093
 END:VEVENT
@@ -1771,7 +1745,7 @@ SUMMARY:LAC: MSK Exam Practice **Require Attendance-See Schedule in Canvas
  **
 DTSTART:20260818T130000Z
 DTEND:20260818T160000Z
-UID:424f7b6181159909e5bba6a98e9f844a
+UID:d7e6c41bbff3e9cee701cba19ff6d84e
 DESCRIPTION:This offering is a(n) Simulation\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260818O46311
 END:VEVENT
@@ -1779,7 +1753,7 @@ BEGIN:VEVENT
 SUMMARY:MSK Lecture 1 - Shoulder\, Pectoral Region
 DTSTART:20260818T170000Z
 DTEND:20260818T175000Z
-UID:bc3b185baea54d1a7f7efe7e141bd510
+UID:5f7254143854e6e652ce5dff8e32cb42
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260818O46341
 END:VEVENT
@@ -1787,7 +1761,7 @@ BEGIN:VEVENT
 SUMMARY:MSK Lecture 2 - Axilla\, Arm\, Forearm
 DTSTART:20260818T180000Z
 DTEND:20260818T185000Z
-UID:22d6874b6b3fb1ea14e47506ca78ccb1
+UID:8fd1ab0dc94b7383d5ef4542d3fa2c8d
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260818O46342
 END:VEVENT
@@ -1795,7 +1769,7 @@ BEGIN:VEVENT
 SUMMARY:Benign Cutaneous Neoplasms
 DTSTART:20260818T190000Z
 DTEND:20260818T195000Z
-UID:c930294d0bd968207b680ba765355503
+UID:5e4187c68c42f1e380783bb3bb7a7d94
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260818O45143
 END:VEVENT
@@ -1803,7 +1777,7 @@ BEGIN:VEVENT
 SUMMARY:Malignant Cutaneous Neoplasms
 DTSTART:20260818T200000Z
 DTEND:20260818T205000Z
-UID:078e6656d7941e0bc98e332a8e832ba0
+UID:a2fc6650e7974f47bce5370202a37377
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260818O45144
 END:VEVENT
@@ -1811,7 +1785,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Expectations/DiffDx & Oral Presentation Case 1
 DTSTART:20260819T130000Z
 DTEND:20260819T160000Z
-UID:b50ffd0ee37e934fd54bcf3f140674f0
+UID:239f1c0966385755ee126c5d4f4483f9
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260819O45094
 END:VEVENT
@@ -1820,7 +1794,7 @@ SUMMARY:LAC: MSK Exam Practice **Require Attendance-See Schedule in Canvas
  **
 DTSTART:20260819T130000Z
 DTEND:20260819T160000Z
-UID:be809ed9b86fc0469181605b51535749
+UID:ef1a71f49b492cda6e52a2ab7bf5d44d
 DESCRIPTION:This offering is a(n) Simulation\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260819O46312
 END:VEVENT
@@ -1828,7 +1802,7 @@ BEGIN:VEVENT
 SUMMARY:Basic Biology of Dermatologic Infections Part I
 DTSTART:20260819T170000Z
 DTEND:20260819T175000Z
-UID:988e9040bbcb64e61f2878cfbec4d4a6
+UID:d191a5bcb18663848f1eaf2d57c069f1
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260819O45147
 END:VEVENT
@@ -1836,7 +1810,7 @@ BEGIN:VEVENT
 SUMMARY:Basic Biology of Dermatologic Infections Part II
 DTSTART:20260819T180000Z
 DTEND:20260819T185000Z
-UID:67f1ee347ca5e952865a83adbf4cd82a
+UID:17c3b86f6df301c29131fa7de90c6758
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260819O45172
 END:VEVENT
@@ -1844,7 +1818,7 @@ BEGIN:VEVENT
 SUMMARY:Infectious Disorders of the Skin Part I
 DTSTART:20260819T190000Z
 DTEND:20260819T195000Z
-UID:c2ec70d2a77ec07c25a9aa5bc8374ae5
+UID:55c123b6eb8acf662f01ea344e556fc8
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260819O45148
 END:VEVENT
@@ -1852,7 +1826,7 @@ BEGIN:VEVENT
 SUMMARY:Infectious Disorders of the Skin Part II
 DTSTART:20260819T200000Z
 DTEND:20260819T205000Z
-UID:7e3cab0f566db1409fc8f3bc75f98cb2
+UID:4b576d5c92673b7af8228c6a6fa06692
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260819O45182
 END:VEVENT
@@ -1860,7 +1834,7 @@ BEGIN:VEVENT
 SUMMARY:Dermatology Lab 2 **Highly Encouraged Attendance**
 DTSTART:20260820T120000Z
 DTEND:20260820T125000Z
-UID:47bf74aff34ee8150be8dba97c07c11c
+UID:d8efe2fa11e065eae8ce78de25d36626
 DESCRIPTION:This offering is a(n) Laboratory\n\nhttps://curriculum.ufhealt
  h.org/events/U20260820O45149
 END:VEVENT
@@ -1868,7 +1842,7 @@ BEGIN:VEVENT
 SUMMARY:Inflammatory Disorders Part I
 DTSTART:20260820T130000Z
 DTEND:20260820T135000Z
-UID:534b8583261faf8eeef6cbde94a8d2f7
+UID:2e774bcb17c0693de62ddfebaf914930
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260820O45150
 END:VEVENT
@@ -1876,7 +1850,7 @@ BEGIN:VEVENT
 SUMMARY:Inflammatory Disorders Part II
 DTSTART:20260820T140000Z
 DTEND:20260820T145000Z
-UID:d86fff9c9a152aeae84bf8e560a020ea
+UID:084837aab28efbfad6c57b34e677200c
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260820O45151
 END:VEVENT
@@ -1884,7 +1858,7 @@ BEGIN:VEVENT
 SUMMARY:Inflammatory Disorders Part III
 DTSTART:20260820T150000Z
 DTEND:20260820T155000Z
-UID:a1e9b9b6b4e29be9056a1f1e7a9a13c6
+UID:d7063e3492e2425ffeb5f04e19a77283
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260820O45152
 END:VEVENT
@@ -1893,7 +1867,7 @@ SUMMARY:Discovery Track - Individual Track Activities or MSRP / Independen
  t Study (Fall)
 DTSTART:20260820T170000Z
 DTEND:20260820T190000Z
-UID:41d2a8591a84eac6f66f1c10c09801a4
+UID:95357c658351546dbd4867bc71ef5299
 DESCRIPTION:This offering is a(n) Self-Directed Learning\n\nhttps://curric
  ulum.ufhealth.org/events/U20260820O45217
 END:VEVENT
@@ -1901,7 +1875,7 @@ BEGIN:VEVENT
 SUMMARY:Inflammatory Disorders Part IV
 DTSTART:20260821T120000Z
 DTEND:20260821T125000Z
-UID:629eb491362efa911f5f30e47fc45c5f
+UID:a045fe01708688bfd631fbdf7de447ed
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260821O45153
 END:VEVENT
@@ -1909,7 +1883,7 @@ BEGIN:VEVENT
 SUMMARY:Cutaneous Manifestations of Systemic Disease
 DTSTART:20260821T130000Z
 DTEND:20260821T135000Z
-UID:4a8750e927f6464b90ed23051c503ac8
+UID:26398da6ea11f3d4dfb379bb66182bfd
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260821O45154
 END:VEVENT
@@ -1917,7 +1891,7 @@ BEGIN:VEVENT
 SUMMARY:The Aging Skin and Preventative Dermatology
 DTSTART:20260821T140000Z
 DTEND:20260821T145000Z
-UID:24141a992b5f06d89f4167bdb112287b
+UID:9cf4f7626916c96788057e16928b7b71
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260821O45155
 END:VEVENT
@@ -1925,7 +1899,7 @@ BEGIN:VEVENT
 SUMMARY:Dermatology Lab 3 and 4 **Highly Encouraged Attendance**
 DTSTART:20260821T150000Z
 DTEND:20260821T155000Z
-UID:9b083582a8b09792790ddc2c41777021
+UID:8e9ca06f72f7516d7c37c2d8173acb23
 DESCRIPTION:This offering is a(n) Laboratory\n\nhttps://curriculum.ufhealt
  h.org/events/U20260821O45176
 END:VEVENT
@@ -1933,7 +1907,7 @@ BEGIN:VEVENT
 SUMMARY:MSK Lecture 3 - Hand and Associated Joints
 DTSTART:20260821T170000Z
 DTEND:20260821T175000Z
-UID:79f65baab9a753b15b1ebedcdfa46318
+UID:f97de578160297ee0b7008d0727a90c9
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260821O46355
 END:VEVENT
@@ -1942,7 +1916,7 @@ SUMMARY:MSK Anatomy Lab 1: Shoulder\, Pectoral Region\, and Axilla **Requi
  red Attendance-See Schedule in Canvas**
 DTSTART:20260821T180000Z
 DTEND:20260821T193000Z
-UID:faf5551d851a41034578bca7f0cdada2
+UID:008d087bdedb0750b34e6fc124c5f490
 DESCRIPTION:This offering is a(n) Laboratory\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260821O46189
 END:VEVENT
@@ -1951,7 +1925,7 @@ SUMMARY:MSK Anatomy Lab 1: Shoulder\, Pectoral Region\, and Axilla **Requi
  red Attendance-See Schedule in Canvas**
 DTSTART:20260821T193000Z
 DTEND:20260821T210000Z
-UID:10f1419309ed6ddcd213835ef2f48fab
+UID:b63c7e1feaf1d1208ee9614dd2b11233
 DESCRIPTION:This offering is a(n) Laboratory\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260821O46188
 END:VEVENT
@@ -1959,7 +1933,7 @@ BEGIN:VEVENT
 SUMMARY:Weekend Quiz I (Download Opens)
 DTSTART:20260821T210000Z
 DTEND:20260821T213000Z
-UID:899faa12743cce54334b2a18e3352e7c
+UID:f5fc17b56353cda9c312cd1ab8833ea3
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260821O4517
  0
@@ -1968,7 +1942,7 @@ BEGIN:VEVENT
 SUMMARY:Weekend Quiz #1 (Download Opens)
 DTSTART:20260821T210000Z
 DTEND:20260821T213000Z
-UID:87922bb31c1a2456da3f3dc9d4cf98a3
+UID:88ad8a9f474e44a9ca6baa43ea538929
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260821O4624
  2
@@ -1977,7 +1951,7 @@ BEGIN:VEVENT
 SUMMARY:Introduction MSK and Rheumatology
 DTSTART:20260824T120000Z
 DTEND:20260824T125000Z
-UID:7e28a699cfc0fa316a3ca9bb7555c364
+UID:56dca2bb4767fdd023fac67c9e027ebc
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260824O45181
 END:VEVENT
@@ -1985,7 +1959,7 @@ BEGIN:VEVENT
 SUMMARY:Pathophysiology of Arthritis and Joint Disease
 DTSTART:20260824T130000Z
 DTEND:20260824T135000Z
-UID:48fdd1bbc8846570b804cd01e0003432
+UID:d91edc26de7a208f8104d5f730cd4026
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260824O45159
 END:VEVENT
@@ -1993,7 +1967,7 @@ BEGIN:VEVENT
 SUMMARY:Pathophysiology of Arthritis and Joint Disease
 DTSTART:20260824T140000Z
 DTEND:20260824T145000Z
-UID:8d1f0b1594e74864112fa7b25813104f
+UID:2ac6e820d4580b8b965c5ac496a2548d
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260824O45160
 END:VEVENT
@@ -2001,7 +1975,7 @@ BEGIN:VEVENT
 SUMMARY:Skeletal Muscle Pathophysiology
 DTSTART:20260824T150000Z
 DTEND:20260824T155000Z
-UID:e172743eca03ec07c5c6301d35bd7d90
+UID:bb8384c1e3ec0d75e6dc04cf4494c6d4
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260824O45162
 END:VEVENT
@@ -2009,7 +1983,7 @@ BEGIN:VEVENT
 SUMMARY:Pediatric MSK Exam
 DTSTART:20260824T170000Z
 DTEND:20260824T175000Z
-UID:3c702c54f52d2ed19174cc167434a709
+UID:a1e82dff9ca8a8700d0ca3d671403104
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260824O46343
 END:VEVENT
@@ -2018,7 +1992,7 @@ SUMMARY:MSK Anatomy Lab 2: Axilla\, Arm and Forearm **Required Attendance-
  See Schedule in Canvas**
 DTSTART:20260824T180000Z
 DTEND:20260824T193000Z
-UID:167082c9761fd698fd398a0c1b06569a
+UID:36b7e4a22e57b182fab105cd50faafaa
 DESCRIPTION:This offering is a(n) Laboratory\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260824O46190
 END:VEVENT
@@ -2027,7 +2001,7 @@ SUMMARY:MSK Anatomy Lab 2: Axilla\, Arm and Forearm **Required Attendance-
  See Schedule in Canvas**
 DTSTART:20260824T193000Z
 DTEND:20260824T210000Z
-UID:c4a29c8d538fda5dff2e73e9551981bf
+UID:daebe6283606d1b27fda1e2915dd8618
 DESCRIPTION:This offering is a(n) Laboratory\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260824O47020
 END:VEVENT
@@ -2035,7 +2009,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Inpatient1a
 DTSTART:20260825T130000Z
 DTEND:20260825T160000Z
-UID:5b22e94a4bd8b102646da96c746fa8b2
+UID:17d19fe1fd496d824ff25b0421fb7dbf
 DESCRIPTION:This offering is a(n) Clinical Experience - Inpatient\n\nhttps
  ://curriculum.ufhealth.org/events/U20260825O45063
 END:VEVENT
@@ -2044,7 +2018,7 @@ SUMMARY:LAC: MSK Exam Practice **Require Attendance-See Schedule in Canvas
  **
 DTSTART:20260825T130000Z
 DTEND:20260825T160000Z
-UID:407d3c23f2bca1c1213a2129e0c22932
+UID:514a7bcf8b24672f86b4695c70fe9b2b
 DESCRIPTION:This offering is a(n) Simulation\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260825O46888
 END:VEVENT
@@ -2052,7 +2026,7 @@ BEGIN:VEVENT
 SUMMARY:County Health Seminar 1 Pre-Work **Do On Your Own**
 DTSTART:20260825T170000Z
 DTEND:20260825T175000Z
-UID:69457757f4aec074abf79d5390728fad
+UID:f2560e2dcbb9e02c8d86a96632c2bf23
 DESCRIPTION:This offering is a(n) Independent Learning\n\nhttps://curricul
  um.ufhealth.org/events/U20260825O45765
 END:VEVENT
@@ -2060,7 +2034,7 @@ BEGIN:VEVENT
 SUMMARY:MSK Lecture 4 - Superficial Thigh and Anterior Thigh
 DTSTART:20260825T170000Z
 DTEND:20260825T175000Z
-UID:da548596433f50ff0b75ac8917b8c5e6
+UID:9598078f3b2e72db7d4656ba19194e7e
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260825O46356
 END:VEVENT
@@ -2068,7 +2042,7 @@ BEGIN:VEVENT
 SUMMARY:MSK Illness Script/Diagnostic Schema
 DTSTART:20260825T180000Z
 DTEND:20260825T185000Z
-UID:8503633ba355e531d005a2356ffab991
+UID:242beb9e863a0c99e527ba6952f771f5
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260825O46304
 END:VEVENT
@@ -2077,7 +2051,7 @@ SUMMARY:Metabolic Bone Disease: Pathophysiology and Clinical Perspective P
  art I
 DTSTART:20260825T190000Z
 DTEND:20260825T195000Z
-UID:726eb7e779855e0c861c1c8de4f6086a
+UID:b4bcd3805dc2b5ceeae545cf3b67b90b
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260825O45171
 END:VEVENT
@@ -2086,7 +2060,7 @@ SUMMARY:Metabolic Bone Disease: Pathophysiology and Clinical Perspective P
  art II
 DTSTART:20260825T200000Z
 DTEND:20260825T205000Z
-UID:5cd30250d4ba554b5c71693a6cc151a7
+UID:573cbe9fb996b62d1e89703c90a3930e
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260825O45161
 END:VEVENT
@@ -2094,7 +2068,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Inpatient1a
 DTSTART:20260826T130000Z
 DTEND:20260826T160000Z
-UID:958e86201f91c02e592c7fe1b06e6838
+UID:a7936e22f7c0a83b0575534c50ae1e12
 DESCRIPTION:This offering is a(n) Clinical Experience - Inpatient\n\nhttps
  ://curriculum.ufhealth.org/events/U20260826O45064
 END:VEVENT
@@ -2103,7 +2077,7 @@ SUMMARY:LAC: MSK Exam Practice **Require Attendance-See Schedule in Canvas
  **
 DTSTART:20260826T130000Z
 DTEND:20260826T160000Z
-UID:13cadfc48dd878982fa47e3ba50dbd50
+UID:229d3156ba88410f1d6e719ac3dbc327
 DESCRIPTION:This offering is a(n) Simulation\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260826O46889
 END:VEVENT
@@ -2112,7 +2086,7 @@ SUMMARY:Pathology of Arthritis and Joint Disease Lab **Highly Encouraged A
  ttendance**
 DTSTART:20260826T170000Z
 DTEND:20260826T175000Z
-UID:e11599f7abaf13ce0f582001389e260f
+UID:2b67e09558239e83d5691f22cd5d8c01
 DESCRIPTION:This offering is a(n) Laboratory\n\nhttps://curriculum.ufhealt
  h.org/events/U20260826O45198
 END:VEVENT
@@ -2121,7 +2095,7 @@ SUMMARY:Panel Discussion: Osteoporosis and Drugs That Regulate Bone Minera
  l Homeostasis
 DTSTART:20260826T180000Z
 DTEND:20260826T185000Z
-UID:c5e4241bd552a946d46d58a0ea6a9df9
+UID:9a034ee2dbb1c6ec1cb7a0f5f0e76cef
 DESCRIPTION:This offering is a(n) Panel Presentation\n\nhttps://curriculum
  .ufhealth.org/events/U20260826O45173
 END:VEVENT
@@ -2129,7 +2103,7 @@ BEGIN:VEVENT
 SUMMARY:Review of Immunology Related to Autoimmunity
 DTSTART:20260826T190000Z
 DTEND:20260826T195000Z
-UID:9bd250ce0e97fdd4a4a4aedf3b5ed526
+UID:230752642ef679d1503c8bc521fe82f7
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260826O46819
 END:VEVENT
@@ -2137,7 +2111,7 @@ BEGIN:VEVENT
 SUMMARY:Drug Therapeutics in MSK and Rheumatology Diseases
 DTSTART:20260826T200000Z
 DTEND:20260826T205000Z
-UID:dcb2f14b0c4164f7ae193b35882043d3
+UID:a6e61ea17ec7a12b026d534e9c34ab64
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260826O46820
 END:VEVENT
@@ -2145,7 +2119,7 @@ BEGIN:VEVENT
 SUMMARY:Seronegative Spondyloarthropathy
 DTSTART:20260827T120000Z
 DTEND:20260827T125000Z
-UID:8e917c558deb2f1594663fc828ebea28
+UID:72f2b422ee5e4f7bba3c5a6f65dc4e36
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260827O45157
 END:VEVENT
@@ -2153,7 +2127,7 @@ BEGIN:VEVENT
 SUMMARY:Rheumatoid Arthritis Pathophysiology and Clinical Manifestations
 DTSTART:20260827T130000Z
 DTEND:20260827T135000Z
-UID:e978e28f401a43584b9ee0b6656de25c
+UID:8449cd281bd36f911b4fa2dd8a588629
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260827O45194
 END:VEVENT
@@ -2161,7 +2135,7 @@ BEGIN:VEVENT
 SUMMARY:Rheumatoid Arthritis Treatment
 DTSTART:20260827T140000Z
 DTEND:20260827T145000Z
-UID:8c66906c768e62b41804f45693063e81
+UID:39673c2cd19fecbd09c087ebfd75b4d4
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260827O45184
 END:VEVENT
@@ -2169,7 +2143,7 @@ BEGIN:VEVENT
 SUMMARY:Patient Presentation: Rheumatoid Arthritis **Required Attendance**
 DTSTART:20260827T150000Z
 DTEND:20260827T155000Z
-UID:ee0b489f4ecb5d3599a13b3d7150c683
+UID:fa2b21c4ba60dafd6dff8cd2c46dc0e0
 DESCRIPTION:This offering is a(n) Patient Presentation - Faculty\nAttendan
  ce is Required\n\nhttps://curriculum.ufhealth.org/events/U20260827O45183
 END:VEVENT
@@ -2178,7 +2152,7 @@ SUMMARY:Discovery Track - Individual Track Activities or MSRP / Independen
  t Study (Fall)
 DTSTART:20260827T170000Z
 DTEND:20260827T190000Z
-UID:133e38947d4cf6e035d5627264dac5bf
+UID:5dc862cc18c0423f188921b1a5ec0ebe
 DESCRIPTION:This offering is a(n) Self-Directed Learning\n\nhttps://curric
  ulum.ufhealth.org/events/U20260827O45216
 END:VEVENT
@@ -2186,7 +2160,7 @@ BEGIN:VEVENT
 SUMMARY:Introduction to the Diagnosis of Back Pain
 DTSTART:20260828T120000Z
 DTEND:20260828T125000Z
-UID:9fe7d79fb906f4d8bd52c63cfbf2d83c
+UID:1edca0497b57f9533b960a3142519e94
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260828O45193
 END:VEVENT
@@ -2195,7 +2169,7 @@ SUMMARY:Patient Narrative: The Impact of Musculoskeletal Disease **Require
  d Attendance**
 DTSTART:20260828T130000Z
 DTEND:20260828T135000Z
-UID:2bde1d27d2ef86231d26e7b9c4925719
+UID:cacf6ff4b38bf7af75e929db29601ab3
 DESCRIPTION:This offering is a(n) Patient Presentation - Faculty\nAttendan
  ce is Required\n\nhttps://curriculum.ufhealth.org/events/U20260828O45168
 END:VEVENT
@@ -2203,7 +2177,7 @@ BEGIN:VEVENT
 SUMMARY:Infectious Arthritis and Disorders: Panel Discussion
 DTSTART:20260828T140000Z
 DTEND:20260828T145000Z
-UID:22cc72bc3843b5b69a132c204e226923
+UID:d9bf98bbc329ddc959bd8980325f8292
 DESCRIPTION:This offering is a(n) Panel Presentation\n\nhttps://curriculum
  .ufhealth.org/events/U20260828O45174
 END:VEVENT
@@ -2211,7 +2185,7 @@ BEGIN:VEVENT
 SUMMARY:Crystal Arthritis
 DTSTART:20260828T150000Z
 DTEND:20260828T155000Z
-UID:50f8650f0eb885cf752a56385b624644
+UID:85c0ee1c22a987c09356016776f0245b
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260828O45158
 END:VEVENT
@@ -2219,7 +2193,7 @@ BEGIN:VEVENT
 SUMMARY:MSK Anatomy Lecture 5 - Gluteal Region and Posterior Thigh
 DTSTART:20260828T170000Z
 DTEND:20260828T175000Z
-UID:a9e01d2f8b53a33947bbaec1596f215b
+UID:422364212f6a3378d633641c02b834c5
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260828O46344
 END:VEVENT
@@ -2228,7 +2202,7 @@ SUMMARY:MSK Anatomy Lab 3: Hand and Associated Joints **Required Attendanc
  e-See Schedule in Canvas**
 DTSTART:20260828T180000Z
 DTEND:20260828T193000Z
-UID:0eb01fa3bf7d3154ae0d27139edc3e0e
+UID:f3763e6570db9f792bdd9f64ed4fec2f
 DESCRIPTION:This offering is a(n) Laboratory\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260828O46202
 END:VEVENT
@@ -2237,7 +2211,7 @@ SUMMARY:MSK Anatomy Lab 3: Hand and Associated Joints **Required Attendanc
  e-See Schedule in Canvas**
 DTSTART:20260828T193000Z
 DTEND:20260828T210000Z
-UID:3f0dcf6a942de8fdf921333830c233a5
+UID:f56fae9c382f398630012aaf6bc407dc
 DESCRIPTION:This offering is a(n) Laboratory\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260828O47022
 END:VEVENT
@@ -2245,7 +2219,7 @@ BEGIN:VEVENT
 SUMMARY:Weekend Quiz II (Download Opens)
 DTSTART:20260828T210000Z
 DTEND:20260828T213000Z
-UID:3bfb980cfbb702e7a06fc980019b14b5
+UID:8ee541a2d949dbcacda1c10d10f38d48
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260828O4517
  8
@@ -2254,7 +2228,7 @@ BEGIN:VEVENT
 SUMMARY:Musculoskeletal System Upper Extremity and Common Injuries
 DTSTART:20260831T120000Z
 DTEND:20260831T125000Z
-UID:fcaf9f3a03bd90669432b923732c4f3c
+UID:86bda471a190d54e7023b0d61e718170
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260831O45191
 END:VEVENT
@@ -2262,7 +2236,7 @@ BEGIN:VEVENT
 SUMMARY:Musculoskeletal System Upper Extremity and Common Injuries
 DTSTART:20260831T130000Z
 DTEND:20260831T135000Z
-UID:d73c8239dbd42ca6b91dec23151faf46
+UID:5085e2a1c8f675a1df656ef5f4b5db20
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260831O45192
 END:VEVENT
@@ -2270,7 +2244,7 @@ BEGIN:VEVENT
 SUMMARY:Musculoskeletal Fractures
 DTSTART:20260831T140000Z
 DTEND:20260831T145000Z
-UID:eb5420642c7d1e6d6445b25f64bc084f
+UID:a33a066dff0950c0a37cbd55a6e6f38a
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260831O45180
 END:VEVENT
@@ -2278,7 +2252,7 @@ BEGIN:VEVENT
 SUMMARY:Orthopedic Surgery Interventions in Arthritis and Fractures
 DTSTART:20260831T150000Z
 DTEND:20260831T155000Z
-UID:a1bd348167714ef813bea917a839d526
+UID:3ec7673c263abbaca982fab861e2137a
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260831O45200
 END:VEVENT
@@ -2286,7 +2260,7 @@ BEGIN:VEVENT
 SUMMARY:MSK Anatomy Lecture 6 - Lower Leg\, Foot and Associated Joints
 DTSTART:20260831T170000Z
 DTEND:20260831T175000Z
-UID:f48610b069426d2d5ce05e4af8cd88e4
+UID:36a4ebc59b36b8a9e46ad01d1155a446
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260831O46345
 END:VEVENT
@@ -2295,7 +2269,7 @@ SUMMARY:MSK Anatomy Lab 4: Superficial and Anterior Thigh **Required Atten
  dance-See Schedule on Canvas**
 DTSTART:20260831T180000Z
 DTEND:20260831T193000Z
-UID:6514deb66c67e18c1d9e2483e8a3d1b0
+UID:20c3eb439b721e6f5578bca86f53023b
 DESCRIPTION:This offering is a(n) Laboratory\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260831O46205
 END:VEVENT
@@ -2304,7 +2278,7 @@ SUMMARY:MSK Anatomy Lab 4: Superficial and Anterior Thigh **Required Atten
  dance-See Schedule on Canvas**
 DTSTART:20260831T193000Z
 DTEND:20260831T210000Z
-UID:29adc82fba51e21a19949763593fca39
+UID:0f931f0e76bdeeaebcd9f2699e1ccdfd
 DESCRIPTION:This offering is a(n) Laboratory\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260831O47025
 END:VEVENT
@@ -2312,7 +2286,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Derm Student Cases/Rheum Clinical Cases
 DTSTART:20260901T130000Z
 DTEND:20260901T160000Z
-UID:b2d8de2a555289bf8ea0f78b40093946
+UID:8f3f08ddca45b69dd460689fe65d87af
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260901O45087
 END:VEVENT
@@ -2320,7 +2294,7 @@ BEGIN:VEVENT
 SUMMARY:LAC: MSK Ultrasound **Required Attendance-See Schedule in Canvas**
 DTSTART:20260901T130000Z
 DTEND:20260901T160000Z
-UID:36865b25ae33e09421e10f726c6574ad
+UID:6b7705195bac99f886e08f2d53043a33
 DESCRIPTION:This offering is a(n) Simulation\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260901O46215
 END:VEVENT
@@ -2328,7 +2302,7 @@ BEGIN:VEVENT
 SUMMARY:MSK Embryology
 DTSTART:20260901T180000Z
 DTEND:20260901T185000Z
-UID:de17a7b918eb8fd22d033e32a87f626d
+UID:5330f054bfe2c512125439283e913a0f
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260901O46322
 END:VEVENT
@@ -2336,7 +2310,7 @@ BEGIN:VEVENT
 SUMMARY:Overview of Autoimmune Disease and Related MSK Manifestations
 DTSTART:20260901T190000Z
 DTEND:20260901T195000Z
-UID:a6adbfd0cebbbc22e54afe6536cda415
+UID:cbf6fb48955b31d45d8104556bb72bb3
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260901O46810
 END:VEVENT
@@ -2344,7 +2318,7 @@ BEGIN:VEVENT
 SUMMARY:Overview of Autoimmune Disease and Related MSK Manifestations
 DTSTART:20260901T200000Z
 DTEND:20260901T205000Z
-UID:3072deab9c140a4f6679f41b4a7a2091
+UID:02f7fbea36049423dc4c0c3be8fb69a2
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260901O46811
 END:VEVENT
@@ -2352,7 +2326,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Derm Student Cases/Rheum Clinical Cases
 DTSTART:20260902T130000Z
 DTEND:20260902T160000Z
-UID:c916242704f093693e2cca4f52243a34
+UID:eb304a5ea834e176f4d5b0ed3aca4ad4
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260902O45088
 END:VEVENT
@@ -2360,7 +2334,7 @@ BEGIN:VEVENT
 SUMMARY:LAC: MSK Ultrasound **Required Attendance-See Schedule in Canvas**
 DTSTART:20260902T130000Z
 DTEND:20260902T160000Z
-UID:c91176cad99469b69244873e8c491fd6
+UID:d76166e6b7169c9f19ca1fd12d84f34e
 DESCRIPTION:This offering is a(n) Simulation\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260902O46208
 END:VEVENT
@@ -2369,7 +2343,7 @@ SUMMARY:Epidemiology\, Clinical Presentation and Pathology of Myopathies P
  art I
 DTSTART:20260902T170000Z
 DTEND:20260902T175000Z
-UID:cfd0849085ffb08a6a7f2b7d4c40918c
+UID:b1fa5e12ecbcbf05ecb64f0a91e8ad82
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260902O45163
 END:VEVENT
@@ -2378,7 +2352,7 @@ SUMMARY:Epidemiology\, Clinical Presentation\, and Pathology of Myopathies
   Part II
 DTSTART:20260902T180000Z
 DTEND:20260902T185000Z
-UID:d021590db3a9f6465b83f559bd50ae39
+UID:43b6e2fdf9c6e220647f7db791cc9f21
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260902O45169
 END:VEVENT
@@ -2386,7 +2360,7 @@ BEGIN:VEVENT
 SUMMARY:Bone and Soft Tissue Tumor Part I
 DTSTART:20260902T190000Z
 DTEND:20260902T195000Z
-UID:7d276f312e90a30103fb5a257f03c06a
+UID:44390759de2a22af2fcc05ec1ce2c8c6
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260902O45186
 END:VEVENT
@@ -2394,7 +2368,7 @@ BEGIN:VEVENT
 SUMMARY:Bone and Soft Tissue Tumor Part II
 DTSTART:20260902T200000Z
 DTEND:20260902T205000Z
-UID:834b202067efb006f26689a6db7ebe22
+UID:515627267ba20e300109e73168179dda
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260902O45187
 END:VEVENT
@@ -2402,7 +2376,7 @@ BEGIN:VEVENT
 SUMMARY:Myopathies Lab **Highly Encouraged Attendance**
 DTSTART:20260903T140000Z
 DTEND:20260903T145000Z
-UID:f046720b748b7fabc93c33eed981a5d6
+UID:ff0e1436144d1b903b19f8b8f2760cd2
 DESCRIPTION:This offering is a(n) Laboratory\n\nhttps://curriculum.ufhealt
  h.org/events/U20260903O45164
 END:VEVENT
@@ -2410,7 +2384,7 @@ BEGIN:VEVENT
 SUMMARY:Bone and Soft Tissue Lab **Highly Encouraged Attendance**
 DTSTART:20260903T150000Z
 DTEND:20260903T155000Z
-UID:c1a16d47dad7f7657c209a06c418e1e3
+UID:288432f64cb4341424b71bdae373ffb6
 DESCRIPTION:This offering is a(n) Laboratory\n\nhttps://curriculum.ufhealt
  h.org/events/U20260903O45190
 END:VEVENT
@@ -2419,7 +2393,7 @@ SUMMARY:Discovery Track - Individual Track Activities or MSRP / Independen
  t Study (Fall)
 DTSTART:20260903T170000Z
 DTEND:20260903T190000Z
-UID:460b58cbefe6d99151c8dbdb4babdc04
+UID:90dd427e76c108e4b09e99b618bac2a8
 DESCRIPTION:This offering is a(n) Self-Directed Learning\n\nhttps://curric
  ulum.ufhealth.org/events/U20260903O45215
 END:VEVENT
@@ -2427,7 +2401,7 @@ BEGIN:VEVENT
 SUMMARY:Drug Induced Myopathies
 DTSTART:20260904T130000Z
 DTEND:20260904T135000Z
-UID:5e22d3e80cc36ba0f12f5d672a8f3d20
+UID:e9e1c719980c233bad053df7f5e95ba0
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260904O46812
 END:VEVENT
@@ -2435,7 +2409,7 @@ BEGIN:VEVENT
 SUMMARY:Myofascial Pain Syndromes
 DTSTART:20260904T140000Z
 DTEND:20260904T145000Z
-UID:c87fcdb84ee5d4b078859f8be90003ef
+UID:e356980f85cd1fd5e7507eb2505c31b1
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260904O46813
 END:VEVENT
@@ -2443,7 +2417,7 @@ BEGIN:VEVENT
 SUMMARY:Muscle in Aging/Exercise is Medicine
 DTSTART:20260904T150000Z
 DTEND:20260904T155000Z
-UID:7300326e311b31a7fc9b577a730415d9
+UID:263a2fc5cbe85028477716b7f09430f0
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260904O46814
 END:VEVENT
@@ -2451,7 +2425,7 @@ BEGIN:VEVENT
 SUMMARY:MSK Embryology Gone Wrong
 DTSTART:20260904T170000Z
 DTEND:20260904T175000Z
-UID:115bdf3349cad7c93c61510b537b852d
+UID:4b06ccfc5cd99bfb2c1d5308d836f747
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260904O46346
 END:VEVENT
@@ -2460,7 +2434,7 @@ SUMMARY:MSK Anatomy Lab 5: Gluteal Region and Posterior Thigh **Required A
  ttendance-See Schedule in Canvas**
 DTSTART:20260904T180000Z
 DTEND:20260904T193000Z
-UID:3cf472fee26bbc3a53d30b3b56f86b9b
+UID:6591dd6d28124051c51eebc135ab6dc7
 DESCRIPTION:This offering is a(n) Laboratory\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260904O46220
 END:VEVENT
@@ -2469,7 +2443,7 @@ SUMMARY:MSK Anatomy Lab 5: Gluteal Region and Posterior Thigh **Required A
  ttendance-See Schedule in Canvas**
 DTSTART:20260904T193000Z
 DTEND:20260904T210000Z
-UID:bfa9811e89521fb3fd64751d1a915a1c
+UID:01f76ac49e71d4e9711a716c72afe6ca
 DESCRIPTION:This offering is a(n) Laboratory\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260904O47028
 END:VEVENT
@@ -2477,7 +2451,7 @@ BEGIN:VEVENT
 SUMMARY:Weekend Quiz III (Download Opens)
 DTSTART:20260904T210000Z
 DTEND:20260904T213000Z
-UID:ac549f036796390d948e650232fb3bdb
+UID:ad1a5ddcaee858bdd814b5ec86bef7d8
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260904O4517
  9
@@ -2486,7 +2460,7 @@ BEGIN:VEVENT
 SUMMARY:Weekend Quiz #2 (Download Opens)
 DTSTART:20260904T210000Z
 DTEND:20260904T213000Z
-UID:7afec2208c203c0b593afb218efbab2f
+UID:d6d985dd9e334db6b26268492b2c58ca
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260904O4637
  0
@@ -2495,7 +2469,7 @@ BEGIN:VEVENT
 SUMMARY:Labor Day
 DTSTART:20260907T120000Z
 DTEND:20260907T210000Z
-UID:bcf230f5da3014c0b7974892ec7171d3
+UID:9e27d249f5f5000dd3e1a85f7a13bdb0
 DESCRIPTION:This offering is a(n) Holiday\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260907O45859
 END:VEVENT
@@ -2503,7 +2477,7 @@ BEGIN:VEVENT
 SUMMARY:ICP2 Affiliation Agreements & PIFs Due Sept. 7 by 5pm
 DTSTART:20260907T210000Z
 DTEND:20260907T213000Z
-UID:473ce11f271b307d30a46827cdb824c0
+UID:8b6233581d3718f5d58865ef92533cb6
 DESCRIPTION:This offering is a(n) Deadline\n\nhttps://curriculum.ufhealth.
  org/events/U20260907O46503
 END:VEVENT
@@ -2511,7 +2485,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Mind Mapping SLE Activity/Rheum Clinical Cases
 DTSTART:20260908T130000Z
 DTEND:20260908T160000Z
-UID:fc47f39af3092b4612a241300e12b62b
+UID:b2b9dd72bea17bb99e3066f9d1735764
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260908O45065
 END:VEVENT
@@ -2520,7 +2494,7 @@ SUMMARY:LAC: MSK SP Encounter **Required Attendance-See Schedule in Canvas
  **
 DTSTART:20260908T130000Z
 DTEND:20260908T160000Z
-UID:a0aa4bc89083943d4c91ab54371c0e45
+UID:ba6ee823286bcea3234433f78fb58087
 DESCRIPTION:This offering is a(n) Simulation\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260908O46194
 END:VEVENT
@@ -2528,7 +2502,7 @@ BEGIN:VEVENT
 SUMMARY:Medical Documentation (SOAP notes/H&Ps)
 DTSTART:20260908T170000Z
 DTEND:20260908T175000Z
-UID:1540e814771a3379dc3d94e6f81cd143
+UID:14188bca744dab98b0635b3b1fde899f
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260908O46890
 END:VEVENT
@@ -2536,7 +2510,7 @@ BEGIN:VEVENT
 SUMMARY:Curious Questions (Office Hours)
 DTSTART:20260908T190000Z
 DTEND:20260908T195000Z
-UID:9d799e1b02a0262d1e32369bb31ca1f9
+UID:51d3e449735a7008acf100d363df2cf8
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260908O45195
 END:VEVENT
@@ -2544,7 +2518,7 @@ BEGIN:VEVENT
 SUMMARY:Ethics- Stigma
 DTSTART:20260908T190000Z
 DTEND:20260908T195000Z
-UID:ee4d13f09a120e71675121afa19cd100
+UID:04052fb442f6c14cf997e3b6e80477ad
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260908O46255
 END:VEVENT
@@ -2552,7 +2526,7 @@ BEGIN:VEVENT
 SUMMARY:Curious Questions (Office Hours)
 DTSTART:20260908T200000Z
 DTEND:20260908T205000Z
-UID:4944566494e1eb276885af9844de9b9d
+UID:9e1873e9bf16e882e8208392cd53f405
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260908O45196
 END:VEVENT
@@ -2560,7 +2534,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Mind Mapping SLE Activity/Rheum Clinical Cases
 DTSTART:20260909T130000Z
 DTEND:20260909T160000Z
-UID:c3ef18b7b43365fae4760a0965884b17
+UID:e887ca6de2c0b46da6f574fee9c845dd
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260909O45066
 END:VEVENT
@@ -2569,7 +2543,7 @@ SUMMARY:LAC: MSK SP Encounter **Required Attendance-See Schedule in Canvas
  **
 DTSTART:20260909T130000Z
 DTEND:20260909T160000Z
-UID:9f02de4dbf5011d04236a20bc5a90ae9
+UID:8cabc1a21a520d4cf70dff1379b68197
 DESCRIPTION:This offering is a(n) Simulation\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260909O46193
 END:VEVENT
@@ -2578,7 +2552,7 @@ SUMMARY:Skin Covers Us: Dermatology Palooza **Highly Encouraged Attendance
  **
 DTSTART:20260909T170000Z
 DTEND:20260909T175000Z
-UID:0b3e2dd5a9d58f1c978de63b59464e20
+UID:d3ea2c49a8bdc94a83a4b91f70894a2b
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260909O45166
 END:VEVENT
@@ -2586,7 +2560,7 @@ BEGIN:VEVENT
 SUMMARY:Joints 'R' Us Palooza **Highly Encouraged Attendance**
 DTSTART:20260909T180000Z
 DTEND:20260909T185000Z
-UID:a3b8d5b669663ffc27353c8adbe5ce4d
+UID:8796240928de9a6a425f36c3a0e03b5a
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260909O45165
 END:VEVENT
@@ -2594,7 +2568,7 @@ BEGIN:VEVENT
 SUMMARY:Curious Questions (Office Hours)
 DTSTART:20260909T190000Z
 DTEND:20260909T195000Z
-UID:7c84ee4d8f6a817215d4df7040d74e88
+UID:be3b0c26a37a5fd54d331128c211ce5c
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260909O45197
 END:VEVENT
@@ -2602,7 +2576,7 @@ BEGIN:VEVENT
 SUMMARY:DERM-MSK Independent Study Time
 DTSTART:20260910T120000Z
 DTEND:20260910T125000Z
-UID:71903a90499cf22b4cf783a779a23296
+UID:6c9d69b2ff9ea8b476384cd36220e73c
 DESCRIPTION:This offering is a(n) Independent Learning\n\nhttps://curricul
  um.ufhealth.org/events/U20260910O46815
 END:VEVENT
@@ -2610,7 +2584,7 @@ BEGIN:VEVENT
 SUMMARY:DERM-MSK Independent Study Time
 DTSTART:20260910T130000Z
 DTEND:20260910T135000Z
-UID:8d6bba44eb90eb55d7924e2fee060d13
+UID:8d111e8db4d29b8d5dba72773c2c1bfe
 DESCRIPTION:This offering is a(n) Independent Learning\n\nhttps://curricul
  um.ufhealth.org/events/U20260910O46816
 END:VEVENT
@@ -2618,7 +2592,7 @@ BEGIN:VEVENT
 SUMMARY:DERM-MSK Independent Study Time
 DTSTART:20260910T140000Z
 DTEND:20260910T145000Z
-UID:93374e6bd94067e9ac151ffcb9f7a12d
+UID:a9b534ad4fed936493668ce397fa2653
 DESCRIPTION:This offering is a(n) Independent Learning\n\nhttps://curricul
  um.ufhealth.org/events/U20260910O46817
 END:VEVENT
@@ -2626,7 +2600,7 @@ BEGIN:VEVENT
 SUMMARY:DERM-MSK Independent Study Time
 DTSTART:20260910T150000Z
 DTEND:20260910T155000Z
-UID:bd034f65234e8e9757296f7d9980678d
+UID:c23fad67aebc448721880091a9f892b0
 DESCRIPTION:This offering is a(n) Independent Learning\n\nhttps://curricul
  um.ufhealth.org/events/U20260910O46818
 END:VEVENT
@@ -2634,7 +2608,7 @@ BEGIN:VEVENT
 SUMMARY:Derm-MSK Exam
 DTSTART:20260911T123000Z
 DTEND:20260911T145000Z
-UID:5198184e61c550f965184fb013436ada
+UID:dd4ff8ebaa859c8ac3ac9387a8bb3415
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Writt
  en/Computer-based\nAttendance is Required\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260911O45167
@@ -2643,7 +2617,7 @@ BEGIN:VEVENT
 SUMMARY:Post Exam Review **Immediate Release**
 DTSTART:20260911T145000Z
 DTEND:20260911T152000Z
-UID:284f9133c1bbf38741a2bf22a88cffc6
+UID:bed473f28b5ba75680797b62ab3edba0
 DESCRIPTION:This offering is a(n) Self-Assessment\n\nhttps://curriculum.uf
  health.org/events/U20260911O45185
 END:VEVENT
@@ -2652,7 +2626,7 @@ SUMMARY:LAC: Clinical Skills Practical 1 **Required Attendance - See Canva
  s for Schedule**
 DTSTART:20260911T170000Z
 DTEND:20260911T200000Z
-UID:5506411018430d5f09146a34718e6fe4
+UID:2e326d043ee4a81ca644f014c410c7a1
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Clini
  cal Performance\nAttendance is Required\n\nhttps://curriculum.ufhealth.org
  /events/U20260911O46347
@@ -2661,7 +2635,7 @@ BEGIN:VEVENT
 SUMMARY:Community Health Improvement Workshop #1
 DTSTART:20260914T120000Z
 DTEND:20260914T125000Z
-UID:56b2d0013511e3e4077ecd71314d5e09
+UID:d0babd2fb38cd9811510f4c69fa3ee65
 DESCRIPTION:This offering is a(n) Workshop\nSession has Learning Materials
  \n\nhttps://curriculum.ufhealth.org/events/U20260914O45752
 END:VEVENT
@@ -2669,7 +2643,7 @@ BEGIN:VEVENT
 SUMMARY:Course Introduction/Terminology Lecture
 DTSTART:20260914T130000Z
 DTEND:20260914T135000Z
-UID:373a6753e81520bb25f5e36cf0b5f3b3
+UID:f356a09616b6a8790c93620d7f297792
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260914O44867
 END:VEVENT
@@ -2677,7 +2651,7 @@ BEGIN:VEVENT
 SUMMARY:Cells of the CNS/PNS Part 1
 DTSTART:20260914T140000Z
 DTEND:20260914T145000Z
-UID:63a393a4c70b57672d6bcdf160d3d52e
+UID:c2982bd1dd2269e88d43619907f8b107
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260914O44892
 END:VEVENT
@@ -2685,7 +2659,7 @@ BEGIN:VEVENT
 SUMMARY:Cells of the CNS/PNS Part 2
 DTSTART:20260914T150000Z
 DTEND:20260914T155000Z
-UID:202993ecd63b31ecd774be67aaaf806b
+UID:1f8caef42816975ba53db1f182f0ad81
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260914O44893
 END:VEVENT
@@ -2693,7 +2667,7 @@ BEGIN:VEVENT
 SUMMARY:Ewing Sarcoma Patient Presentation **Required Attendance**
 DTSTART:20260914T170000Z
 DTEND:20260914T175000Z
-UID:35ffbe65bffedc798f67a1a3fc83359e
+UID:7a1553139a54e50c3a90af130ec08168
 DESCRIPTION:This offering is a(n) Patient Presentation - Faculty\nAttendan
  ce is Required\n\nhttps://curriculum.ufhealth.org/events/U20260914O46241
 END:VEVENT
@@ -2702,7 +2676,7 @@ SUMMARY:MSK Anatomy Lab 6: Lower Leg\, Foot and Associated Joints **Requir
  ed Attendance-See Schedule on Canvas**
 DTSTART:20260914T180000Z
 DTEND:20260914T193000Z
-UID:a9d948d4009f4e89ada98c76497ec632
+UID:828848f8fbee024cddc29f86f6a28d08
 DESCRIPTION:This offering is a(n) Laboratory\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260914O46223
 END:VEVENT
@@ -2711,7 +2685,7 @@ SUMMARY:MSK Anatomy Lab 6: Lower Leg\, Foot and Associated Joints **Requir
  ed Attendance-See Schedule on Canvas**
 DTSTART:20260914T193000Z
 DTEND:20260914T210000Z
-UID:06f0012e0a3270d4b751e81b50140917
+UID:173cd61f773f3abd4bd1044c9ea47489
 DESCRIPTION:This offering is a(n) Laboratory\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260914O47029
 END:VEVENT
@@ -2719,7 +2693,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Inpatient 1B
 DTSTART:20260915T130000Z
 DTEND:20260915T160000Z
-UID:58e589e78bb9a9519bd46ea6f251b8fe
+UID:384edb58b75cf17d1d31bc7c0d06b530
 DESCRIPTION:This offering is a(n) Clinical Experience - Inpatient\n\nhttps
  ://curriculum.ufhealth.org/events/U20260915O45097
 END:VEVENT
@@ -2728,7 +2702,7 @@ SUMMARY:LAC: Clinical Skills Practical 1 **Required Attendance - See Canva
  s for Schedule**
 DTSTART:20260915T130000Z
 DTEND:20260915T160000Z
-UID:5840d2bab98d265140e134abe051c7ac
+UID:6d5b1a8c508cb3067d68b1ec3e9115a6
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Clini
  cal Performance\nAttendance is Required\n\nhttps://curriculum.ufhealth.org
  /events/U20260915O46891
@@ -2737,7 +2711,7 @@ BEGIN:VEVENT
 SUMMARY:Geriatric MSK Exam and Ethics Part I
 DTSTART:20260915T170000Z
 DTEND:20260915T175000Z
-UID:a18fdf26067cd286ae82d3a7acf583fd
+UID:97b7e1264e5901baa02bfe660f3365c0
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260915O46305
 END:VEVENT
@@ -2745,7 +2719,7 @@ BEGIN:VEVENT
 SUMMARY:Geriatric MSK Exam and Ethics Part II
 DTSTART:20260915T180000Z
 DTEND:20260915T185000Z
-UID:16859b1ec4708774c6df39e7566a260c
+UID:fe8df7f42e251987e5598d1a8a30237f
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260915O46893
 END:VEVENT
@@ -2753,7 +2727,7 @@ BEGIN:VEVENT
 SUMMARY:Neurotransmitters I
 DTSTART:20260915T190000Z
 DTEND:20260915T195000Z
-UID:3309134babab7efb74721be826af8f8f
+UID:234d3fdc7b609699de7d3b0e702aebc6
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260915O46845
 END:VEVENT
@@ -2761,7 +2735,7 @@ BEGIN:VEVENT
 SUMMARY:Neurotransmitters II
 DTSTART:20260915T200000Z
 DTEND:20260915T205000Z
-UID:0583e4f21cac28170b312bb5ac30f422
+UID:99e81ec1060d20cc9ed53e758bab0770
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260915O44869
 END:VEVENT
@@ -2769,7 +2743,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Inpatient 1B
 DTSTART:20260916T130000Z
 DTEND:20260916T160000Z
-UID:c8c86fd0193c5e1c57ca7a479eb1d614
+UID:72d289da811aebcef3e0265b0bcebb86
 DESCRIPTION:This offering is a(n) Clinical Experience - Inpatient\n\nhttps
  ://curriculum.ufhealth.org/events/U20260916O45098
 END:VEVENT
@@ -2778,7 +2752,7 @@ SUMMARY:LAC: Clinical Skills Practical 1 **Required Attendance - See Canva
  s for Schedule**
 DTSTART:20260916T130000Z
 DTEND:20260916T160000Z
-UID:14ec0a95cc261dd099589352f9afe5af
+UID:55c1c0f1a5b1b30be746778d8c32dde4
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Clini
  cal Performance\nAttendance is Required\n\nhttps://curriculum.ufhealth.org
  /events/U20260916O46892
@@ -2787,7 +2761,7 @@ BEGIN:VEVENT
 SUMMARY:Neurophysiological Basis of Brain Function
 DTSTART:20260916T170000Z
 DTEND:20260916T175000Z
-UID:df19ccbd64ad8916743b21235a7324e2
+UID:e0237c1d4a16701299d3336914d0cb07
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260916O44871
 END:VEVENT
@@ -2795,7 +2769,7 @@ BEGIN:VEVENT
 SUMMARY:Chemical Neurotransmission
 DTSTART:20260916T180000Z
 DTEND:20260916T185000Z
-UID:4ac75fa8d13627f3e490417da09f5370
+UID:dcf8e2865bcdf22f78619bb9ea6a9efa
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260916O44894
 END:VEVENT
@@ -2803,7 +2777,7 @@ BEGIN:VEVENT
 SUMMARY:Embryology/Brain/Ventricles Anatomy
 DTSTART:20260916T190000Z
 DTEND:20260916T195000Z
-UID:e6ce07264de403423a953424b156cbe7
+UID:7a06fbc7f13d4ca8938be26bdc743424
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260916O46852
 END:VEVENT
@@ -2811,7 +2785,7 @@ BEGIN:VEVENT
 SUMMARY:Neurodevelopment
 DTSTART:20260916T200000Z
 DTEND:20260916T205000Z
-UID:cb7ee96fb5befc6894520af5a8ecfb30
+UID:371f2dea8d9d3e93b625d780ee0b98b7
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260916O44918
 END:VEVENT
@@ -2820,7 +2794,7 @@ SUMMARY:Laboratory: Embryology/Brain/Ventricles Review **Highly Recommende
  d**
 DTSTART:20260917T130000Z
 DTEND:20260917T135000Z
-UID:6c624047ac82917f9928698bceacc9d2
+UID:a2694c94214dfc5eec23f15aaf23ec49
 DESCRIPTION:This offering is a(n) Laboratory\nSession has Learning Materia
  ls\n\nhttps://curriculum.ufhealth.org/events/U20260917O46861
 END:VEVENT
@@ -2828,7 +2802,7 @@ BEGIN:VEVENT
 SUMMARY:Diencephalon/Meninges/Basal Ganglia Lecture
 DTSTART:20260917T140000Z
 DTEND:20260917T145000Z
-UID:7a1413daef56d5701a907003b255bd55
+UID:4b79cf479e38823956f09663d876f78e
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260917O44870
 END:VEVENT
@@ -2836,7 +2810,7 @@ BEGIN:VEVENT
 SUMMARY:Cranial Nerves Anatomy I
 DTSTART:20260918T120000Z
 DTEND:20260918T125000Z
-UID:edb5bd463c333d40fc11450fa0980630
+UID:d3f495931468d249c19d467a94aa6392
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260918O44879
 END:VEVENT
@@ -2844,7 +2818,7 @@ BEGIN:VEVENT
 SUMMARY:Cranial Nerves Anatomy II
 DTSTART:20260918T130000Z
 DTEND:20260918T135000Z
-UID:84737171a02218061d15cd4877017f38
+UID:0a46523eaf8f2d63d8f54575846d5875
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260918O44914
 END:VEVENT
@@ -2853,7 +2827,7 @@ SUMMARY:Laboratory: Diencephalon/Meninges/Basal Ganglia Lecture Review **H
  ighly Recommended**
 DTSTART:20260918T140000Z
 DTEND:20260918T145000Z
-UID:2c04dcc5d39047cad4e67c4ae1db6965
+UID:6a86639c4281492cc7b4a226f7a71fed
 DESCRIPTION:This offering is a(n) Laboratory\nSession has Learning Materia
  ls\n\nhttps://curriculum.ufhealth.org/events/U20260918O44929
 END:VEVENT
@@ -2862,7 +2836,7 @@ SUMMARY:MSK Written/Practical Exam **Required Attendance-See Schedule in C
  anvas**
 DTSTART:20260918T170000Z
 DTEND:20260918T195000Z
-UID:1e4f10d49ea137ae9a9d23437015f978
+UID:a94dd1b2faf1949678861401b5607a4c
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Writt
  en/Computer-based\nAttendance is Required\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260918O46152
@@ -2871,7 +2845,7 @@ BEGIN:VEVENT
 SUMMARY:Weekend Quiz I (Download Opens) **Due Sunday 9/20 @ 11:59PM**
 DTSTART:20260918T210000Z
 DTEND:20260918T213000Z
-UID:f672df357dd4b3074c03dd70b9e39ff8
+UID:7524e35be7b5c672a054a0c6b607b542
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\nSession has Learning Materials\n\nhttps://curriculum.uf
  health.org/events/U20260918O44925
@@ -2880,7 +2854,7 @@ BEGIN:VEVENT
 SUMMARY:Blood Supply
 DTSTART:20260921T120000Z
 DTEND:20260921T125000Z
-UID:9681922a24a2859becf00b51db19f277
+UID:66be1a4188fe457cb0ea4c7c30a45706
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260921O44872
 END:VEVENT
@@ -2888,7 +2862,7 @@ BEGIN:VEVENT
 SUMMARY:Lab: Interactive Cranial Nerve Review **Highly Recommended**
 DTSTART:20260921T130000Z
 DTEND:20260921T135000Z
-UID:37e7a0b364844f5211766ecdd38a3688
+UID:1511a5fcce368a74ef361681f44207a3
 DESCRIPTION:This offering is a(n) Laboratory\nSession has Learning Materia
  ls\n\nhttps://curriculum.ufhealth.org/events/U20260921O44933
 END:VEVENT
@@ -2896,7 +2870,7 @@ BEGIN:VEVENT
 SUMMARY:The Human Visual System Part 1
 DTSTART:20260921T140000Z
 DTEND:20260921T145000Z
-UID:0a2d4c9d26ca58e50c71fa0311e054e2
+UID:0cce3da7984ab1e08a2cb51f3235c9a9
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260921O46864
 END:VEVENT
@@ -2904,7 +2878,7 @@ BEGIN:VEVENT
 SUMMARY:The Human Visual System Part 2
 DTSTART:20260921T150000Z
 DTEND:20260921T155000Z
-UID:9cd58c0d09a6a94d393e06fbc0865d31
+UID:8ab1a9e5a92651a8a6f220b779c08613
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260921O46867
 END:VEVENT
@@ -2912,7 +2886,7 @@ BEGIN:VEVENT
 SUMMARY:Neuro Exam
 DTSTART:20260921T170000Z
 DTEND:20260921T175000Z
-UID:49e96ea0f056ca089231498f5c6e8de5
+UID:7eaf6474c7d8f8c385f2fb5d0a141d6b
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260921O46369
 END:VEVENT
@@ -2920,7 +2894,7 @@ BEGIN:VEVENT
 SUMMARY:Headaches
 DTSTART:20260921T180000Z
 DTEND:20260921T185000Z
-UID:6e1250831d6148d5a737679c9754734c
+UID:ed20a6122ad92ad523937475c0c698ab
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260921O46254
 END:VEVENT
@@ -2928,7 +2902,7 @@ BEGIN:VEVENT
 SUMMARY:Memory Loss
 DTSTART:20260921T190000Z
 DTEND:20260921T195000Z
-UID:cfd77f080395c771ee94fb48e64dec64
+UID:7e57181a8ba4a8bb1af80c56cd308814
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260921O46282
 END:VEVENT
@@ -2936,7 +2910,7 @@ BEGIN:VEVENT
 SUMMARY:Autonomic Nervous System
 DTSTART:20260922T120000Z
 DTEND:20260922T125000Z
-UID:e82114d9cb4127aeb30849cd2965c50d
+UID:eceb109a9ce08db8e859c8e3edb2b642
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260922O44881
 END:VEVENT
@@ -2944,7 +2918,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Note Swap/Diff Dx & Oral Presentation Case 2
 DTSTART:20260922T130000Z
 DTEND:20260922T160000Z
-UID:185b8820c394769205a36fd42a0c82e5
+UID:a777232b385c18faeafa29949f5feb4a
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260922O45075
 END:VEVENT
@@ -2953,7 +2927,7 @@ SUMMARY:LAC: Neuro Exam Practice **Required Attendance-See Schedule in Can
  vas**
 DTSTART:20260922T130000Z
 DTEND:20260922T160000Z
-UID:7a4bbe4c029a9869cc93957601cc1e5f
+UID:dadd7b76aec2e891bc6ebc0009355110
 DESCRIPTION:This offering is a(n) Simulation\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260922O46357
 END:VEVENT
@@ -2961,7 +2935,7 @@ BEGIN:VEVENT
 SUMMARY:Infant and Child Development
 DTSTART:20260922T170000Z
 DTEND:20260922T175000Z
-UID:318d697eb6c9a58a13ba144ed9daedb8
+UID:15b03922d69d450b4f678746f641acfa
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260922O46286
 END:VEVENT
@@ -2969,7 +2943,7 @@ BEGIN:VEVENT
 SUMMARY:Neurodevelopmental Disorders
 DTSTART:20260922T180000Z
 DTEND:20260922T185000Z
-UID:84beecd2f936a148514dabb912435944
+UID:94b3671180c5180ae1ad9503d03cdae1
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260922O46366
 END:VEVENT
@@ -2977,7 +2951,7 @@ BEGIN:VEVENT
 SUMMARY:Lab: Interactive Blood Supply Review **Highly Recommended**
 DTSTART:20260922T190000Z
 DTEND:20260922T195000Z
-UID:da4f44503274c80b7a33daaedd8574cf
+UID:6b15402ada7192eb25c89646d8995c3a
 DESCRIPTION:This offering is a(n) Laboratory\nSession has Learning Materia
  ls\n\nhttps://curriculum.ufhealth.org/events/U20260922O44930
 END:VEVENT
@@ -2985,7 +2959,7 @@ BEGIN:VEVENT
 SUMMARY:Neuroradiology
 DTSTART:20260922T200000Z
 DTEND:20260922T205000Z
-UID:429278c305890174628fead68ef40f6f
+UID:db2a6839dc1a51856cc9b4c40233528e
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260922O44943
 END:VEVENT
@@ -2993,7 +2967,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Note Swap/Diff Dx & Oral Presentation Case 2
 DTSTART:20260923T130000Z
 DTEND:20260923T160000Z
-UID:a7f78ae4ffbc3ff1255710ff7c601e57
+UID:f7dd5eca11b20ab1f6ac0a1bf26fe81a
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260923O45076
 END:VEVENT
@@ -3002,7 +2976,7 @@ SUMMARY:LAC: Neuro Exam Practice **Required Attendance-See Schedule in Can
  vas**
 DTSTART:20260923T130000Z
 DTEND:20260923T160000Z
-UID:3e23668d9eecb5002e0a0f7a61969025
+UID:935f4b755527cc6c2b3d3f104ab7f09e
 DESCRIPTION:This offering is a(n) Simulation\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260923O46358
 END:VEVENT
@@ -3010,7 +2984,7 @@ BEGIN:VEVENT
 SUMMARY:Vestibular System
 DTSTART:20260923T170000Z
 DTEND:20260923T175000Z
-UID:b919299fc3079b66091c3b0c68324c53
+UID:765955e574f57c040d142c329ee5df03
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260923O44962
 END:VEVENT
@@ -3018,7 +2992,7 @@ BEGIN:VEVENT
 SUMMARY:Auditory System
 DTSTART:20260923T180000Z
 DTEND:20260923T185000Z
-UID:0386916deba661cfa35f2cf830538009
+UID:3c136593b52ad61cdbc2b9dbbe532429
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260923O44909
 END:VEVENT
@@ -3026,7 +3000,7 @@ BEGIN:VEVENT
 SUMMARY:Spinal Cord from a Neurological Perspective
 DTSTART:20260923T190000Z
 DTEND:20260923T195000Z
-UID:801daab56043d0a0486c0c4ccdbb71ed
+UID:7679f1631ad9bab9442844cb7ceec053
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260923O46869
 END:VEVENT
@@ -3034,7 +3008,7 @@ BEGIN:VEVENT
 SUMMARY:Spinal Cord and Spinal Cord Syndromes
 DTSTART:20260923T200000Z
 DTEND:20260923T205000Z
-UID:59c9083f18e053d6849f668511333b95
+UID:b46f55ff47d91ed786eb7084bd3253f3
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260923O44873
 END:VEVENT
@@ -3042,7 +3016,7 @@ BEGIN:VEVENT
 SUMMARY:Laboratory: Interactive Spinal Cord Review **Highly Recommended**
 DTSTART:20260924T130000Z
 DTEND:20260924T135000Z
-UID:68b730c0072e3ec12ed060fc1ce62b6e
+UID:3803a5bcf349ebd9fd4361875d4ce5ee
 DESCRIPTION:This offering is a(n) Laboratory\nSession has Learning Materia
  ls\n\nhttps://curriculum.ufhealth.org/events/U20260924O44916
 END:VEVENT
@@ -3050,7 +3024,7 @@ BEGIN:VEVENT
 SUMMARY:Orange and Blue Review **Optional**
 DTSTART:20260924T140000Z
 DTEND:20260924T155000Z
-UID:26fde9902bba1ef99d14629f5e6dd2c1
+UID:be0ede53ba2c4ff6a5a0ded718e466df
 DESCRIPTION:This offering is a(n) Discussion\, Large Group (>12) and is co
  nsidered supplemental\nSession has Learning Materials\n\nhttps://curriculu
  m.ufhealth.org/events/U20260924O44876
@@ -3059,7 +3033,7 @@ BEGIN:VEVENT
 SUMMARY:Neuro Exam I
 DTSTART:20260925T120000Z
 DTEND:20260925T151000Z
-UID:fa77a4b3d1a86f824dbaa70984479782
+UID:8bdd57c75c024faf5645dd4845836778
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Writt
  en/Computer-based\nAttendance is Required\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260925O44897
@@ -3068,7 +3042,7 @@ BEGIN:VEVENT
 SUMMARY:Exam I Self-Review **Immediate Release**
 DTSTART:20260925T151000Z
 DTEND:20260925T154000Z
-UID:79343f86f50a91b2e7e0595453868d03
+UID:17b8e8af2d501af1f52b49aee764c392
 DESCRIPTION:This offering is a(n) Self-Assessment\nSession has Learning Ma
  terials\n\nhttps://curriculum.ufhealth.org/events/U20260925O47011
 END:VEVENT
@@ -3076,7 +3050,7 @@ BEGIN:VEVENT
 SUMMARY:Psychiatric History Refresher
 DTSTART:20260925T170000Z
 DTEND:20260925T175000Z
-UID:d87884dd6136daaaeaeea37bccf10696
+UID:5976aaf36bcb0612a7b67f48797179b6
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260925O46273
 END:VEVENT
@@ -3084,7 +3058,7 @@ BEGIN:VEVENT
 SUMMARY:Depressive Disorders
 DTSTART:20260925T180000Z
 DTEND:20260925T185000Z
-UID:de06ec682bf85df22d9dfeca8c3e5624
+UID:5a5025b1ce0415f1a463949a017f834b
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260925O46275
 END:VEVENT
@@ -3092,7 +3066,7 @@ BEGIN:VEVENT
 SUMMARY:Bipolar Disorders
 DTSTART:20260925T190000Z
 DTEND:20260925T195000Z
-UID:7f93a24b2e52bba82209956d242af0ad
+UID:1419f744abc3a5952cd774c78110275d
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260925O46276
 END:VEVENT
@@ -3100,7 +3074,7 @@ BEGIN:VEVENT
 SUMMARY:Antidepressants and Mood Stabilizers
 DTSTART:20260925T200000Z
 DTEND:20260925T205000Z
-UID:1093043ed6002a451bafef1a56135cec
+UID:0090948cc82d96113709e7e41b001ca4
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260925O46278
 END:VEVENT
@@ -3108,7 +3082,7 @@ BEGIN:VEVENT
 SUMMARY:Weekend Quiz #3 (Download Opens)
 DTSTART:20260925T210000Z
 DTEND:20260925T213000Z
-UID:711ea5559dfe10591b31a477800397f0
+UID:b647f0dc15be198773f716e6a6af92e8
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20260925O4624
  3
@@ -3117,7 +3091,7 @@ BEGIN:VEVENT
 SUMMARY:ICP2 Preceptorship Lottery **Required Attendance**
 DTSTART:20260928T120000Z
 DTEND:20260928T133000Z
-UID:9ef001b6cdbc846e66f5df6bf697e9bb
+UID:53567b3bd42655b4ac4840290479dee7
 DESCRIPTION:This offering is a(n) Workshop\nSession has Learning Materials
  \n\nhttps://curriculum.ufhealth.org/events/U20260928O46487
 END:VEVENT
@@ -3125,7 +3099,7 @@ BEGIN:VEVENT
 SUMMARY:Epilepsy and Status Epilepticus
 DTSTART:20260928T140000Z
 DTEND:20260928T145000Z
-UID:97af25b90acc18dd304a384948215979
+UID:d3018c6d51fc13b4585245e4e44d07ac
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260928O44888
 END:VEVENT
@@ -3133,7 +3107,7 @@ BEGIN:VEVENT
 SUMMARY:Anti-Convulsant Drugs
 DTSTART:20260928T150000Z
 DTEND:20260928T155000Z
-UID:a530434e763520b490678b3d780e0bf4
+UID:64eb9a18bf812f898c4fc60a5c49cd77
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260928O44886
 END:VEVENT
@@ -3141,7 +3115,7 @@ BEGIN:VEVENT
 SUMMARY:Eye Exam
 DTSTART:20260928T170000Z
 DTEND:20260928T175000Z
-UID:c1035222951ef04823878129f1f0e8c1
+UID:5acf36f0dbce9269f50d8525fc595db0
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260928O46361
 END:VEVENT
@@ -3149,7 +3123,7 @@ BEGIN:VEVENT
 SUMMARY:Psychotic Disorders
 DTSTART:20260928T180000Z
 DTEND:20260928T185000Z
-UID:a804882e8c97cc6555de88546b83d032
+UID:44e1f1f8ed9744a989b8d92378191803
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260928O46280
 END:VEVENT
@@ -3157,7 +3131,7 @@ BEGIN:VEVENT
 SUMMARY:Antipsychotics
 DTSTART:20260928T190000Z
 DTEND:20260928T195000Z
-UID:a6ff0b20559c9d40aba68fc9018663be
+UID:c1d6573b1eac17a863b3e66343214aca
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260928O46367
 END:VEVENT
@@ -3165,7 +3139,7 @@ BEGIN:VEVENT
 SUMMARY:Neurobiology and Psychopharmacology
 DTSTART:20260928T200000Z
 DTEND:20260928T205000Z
-UID:77bb9126f12ab5bc8c7492bbfca76c76
+UID:5053c88cbcc3de5e3dc37824207f8935
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260928O46274
 END:VEVENT
@@ -3173,7 +3147,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Ethics - Stigma/Triadic Interview
 DTSTART:20260929T130000Z
 DTEND:20260929T160000Z
-UID:5fa235c196cb2dd6cdf62e48c9968f0c
+UID:b044f47759a5c03fc60e21a2d4d7b033
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260929O45059
 END:VEVENT
@@ -3182,7 +3156,7 @@ SUMMARY:LAC: Eye Exam Practice **Required Attendance-See Schedule in Canva
  s**
 DTSTART:20260929T130000Z
 DTEND:20260929T160000Z
-UID:07b714d032570b025073b8ba8d9459e0
+UID:125bb194bae9251d375ab1283827d186
 DESCRIPTION:This offering is a(n) Simulation\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260929O46359
 END:VEVENT
@@ -3190,7 +3164,7 @@ BEGIN:VEVENT
 SUMMARY:Brain Death
 DTSTART:20260929T170000Z
 DTEND:20260929T175000Z
-UID:7c4f34845c0e5629ec2dd56643f7ac00
+UID:9f0b0f7884bdb3cecd76442223a179fa
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260929O46325
 END:VEVENT
@@ -3198,7 +3172,7 @@ BEGIN:VEVENT
 SUMMARY:End of Life/Medical Futility
 DTSTART:20260929T180000Z
 DTEND:20260929T185000Z
-UID:5ba00e75c8ecde86d4b8eb624534ba69
+UID:bf267ed8a982eaad6299989e13c41703
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20260929O46253
 END:VEVENT
@@ -3206,7 +3180,7 @@ BEGIN:VEVENT
 SUMMARY:CNS Inflammation and Autoimmune Disorders
 DTSTART:20260929T190000Z
 DTEND:20260929T195000Z
-UID:e40301d227d86b4c223868684df080f4
+UID:728fe274132695e162c30869087b1349
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260929O46871
 END:VEVENT
@@ -3214,7 +3188,7 @@ BEGIN:VEVENT
 SUMMARY:Demyelinating Pathology
 DTSTART:20260929T200000Z
 DTEND:20260929T205000Z
-UID:158a2165d0b971a2204a2056f6a13d34
+UID:091a792c4de3540847f01d25e1acd9cd
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260929O44887
 END:VEVENT
@@ -3222,7 +3196,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Ethics - Stigma/Triadic Interview
 DTSTART:20260930T130000Z
 DTEND:20260930T160000Z
-UID:9b36d725ef8b92fc6918302e73b8f857
+UID:bd10628ac3f07c7d1f0bcaea40f37583
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\n\nhttps://cu
  rriculum.ufhealth.org/events/U20260930O45060
 END:VEVENT
@@ -3231,7 +3205,7 @@ SUMMARY:LAC: Eye Exam Practice **Required Attendance-See Schedule in Canva
  s**
 DTSTART:20260930T130000Z
 DTEND:20260930T160000Z
-UID:a2456d5fc522335dfc07e253a47a1eff
+UID:8bd67e73114bf2c06c868accaf869ab2
 DESCRIPTION:This offering is a(n) Simulation\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20260930O46360
 END:VEVENT
@@ -3239,7 +3213,7 @@ BEGIN:VEVENT
 SUMMARY:Exam Review 1 **Optional**
 DTSTART:20260930T170000Z
 DTEND:20260930T175000Z
-UID:95e7a5bc6a8297606fc12c292e97629f
+UID:b85b50eee5c537d6a75276777c8fb063
 DESCRIPTION:This offering is a(n) Discussion\, Small Group (\nSession has 
  Learning Materials\n\nhttps://curriculum.ufhealth.org/events/U20260930O468
  72
@@ -3248,7 +3222,7 @@ BEGIN:VEVENT
 SUMMARY:Clinical Perspectives: Eye Movements
 DTSTART:20260930T180000Z
 DTEND:20260930T185000Z
-UID:c811e4841abbc4004cf7b3fcd2d86638
+UID:7aa7869c9c237ef979d15e71a1fc743a
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260930O46870
 END:VEVENT
@@ -3256,7 +3230,7 @@ BEGIN:VEVENT
 SUMMARY:Brain Arousal Systems
 DTSTART:20260930T190000Z
 DTEND:20260930T195000Z
-UID:da0f9b87af601a89ad313b87bbbf51b5
+UID:52b7d3e7ebb2b8f286be8fd527e6c697
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20260930O44907
 END:VEVENT
@@ -3265,7 +3239,7 @@ SUMMARY:Lab: Interactive Brainstem and Somatosensory Pathway Anatomy**High
  ly Recommended**
 DTSTART:20260930T200000Z
 DTEND:20260930T205000Z
-UID:dbc20266adc6f5ff78aa0d2ae8b7a300
+UID:e77fe6f86ac3904f22efa6948bf63f02
 DESCRIPTION:This offering is a(n) Laboratory\nSession has Learning Materia
  ls\n\nhttps://curriculum.ufhealth.org/events/U20260930O44932
 END:VEVENT
@@ -3273,7 +3247,7 @@ BEGIN:VEVENT
 SUMMARY:Laboratory: Motor Pathways Anatomy **Highly Recommended**
 DTSTART:20261001T130000Z
 DTEND:20261001T135000Z
-UID:5b92d2ed12be3b4a4a57f8e3ced1ef6c
+UID:ab561be5f003323325ec465b6e74992b
 DESCRIPTION:This offering is a(n) Laboratory\nSession has Learning Materia
  ls\n\nhttps://curriculum.ufhealth.org/events/U20261001O44878
 END:VEVENT
@@ -3281,7 +3255,7 @@ BEGIN:VEVENT
 SUMMARY:Laboratory: Brainstem and Somatosensory **Highly Recommended**
 DTSTART:20261001T140000Z
 DTEND:20261001T145000Z
-UID:df3d06669f94ffabecb65237176bcdab
+UID:5dd3b616d5c7f8022ba6e19d30490753
 DESCRIPTION:This offering is a(n) Laboratory\nSession has Learning Materia
  ls\n\nhttps://curriculum.ufhealth.org/events/U20261001O44955
 END:VEVENT
@@ -3289,7 +3263,7 @@ BEGIN:VEVENT
 SUMMARY:Lab: Interactive Motor Pathways Review **Highly Recommended**
 DTSTART:20261002T120000Z
 DTEND:20261002T125000Z
-UID:4acae811befebc33d81404a265d5636c
+UID:e28095693253e3ad16b0588fc71e9573
 DESCRIPTION:This offering is a(n) Laboratory\nSession has Learning Materia
  ls\n\nhttps://curriculum.ufhealth.org/events/U20261002O44956
 END:VEVENT
@@ -3297,7 +3271,7 @@ BEGIN:VEVENT
 SUMMARY:Higher Cortical Function
 DTSTART:20261002T130000Z
 DTEND:20261002T135000Z
-UID:ae1d558ca9870304e05629c4d054b9ac
+UID:a87da181f14bf5c2180f5cc5b3a30f01
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20261002O44922
 END:VEVENT
@@ -3305,7 +3279,7 @@ BEGIN:VEVENT
 SUMMARY:Human Behavior Exam 1
 DTSTART:20261002T173000Z
 DTEND:20261002T193000Z
-UID:4a7c763d6cbb60ad3428336469395d15
+UID:2fd74b1698f12a1bb427d993fa24ea55
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Writt
  en/Computer-based\nAttendance is Required\n\nhttps://curriculum.ufhealth.o
  rg/events/U20261002O46329
@@ -3314,7 +3288,7 @@ BEGIN:VEVENT
 SUMMARY:Weekend Quiz II (Download Opens)  **Due Sunday 10/4 @ 11:59PM**
 DTSTART:20261002T210000Z
 DTEND:20261002T213000Z
-UID:fb6e596c8aab6591b83e8be37f88ab99
+UID:3e5698e54c3f0b41828f1f9f5feafb01
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\nSession has Learning Materials\n\nhttps://curriculum.uf
  health.org/events/U20261002O44963
@@ -3323,7 +3297,7 @@ BEGIN:VEVENT
 SUMMARY:Intercranial Hemorrhage and SAH
 DTSTART:20261005T120000Z
 DTEND:20261005T125000Z
-UID:9ff6dcda77e7553d84ad216304683f1a
+UID:63e25c32650e94d3a63776d3e586f1b0
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20261005O44937
 END:VEVENT
@@ -3331,7 +3305,7 @@ BEGIN:VEVENT
 SUMMARY:Acute Ischemic Stroke and CVST
 DTSTART:20261005T130000Z
 DTEND:20261005T135000Z
-UID:11b95a38b861afb2479957fae8315644
+UID:d675aff11e1dcd07429b9978729b002c
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20261005O44900
 END:VEVENT
@@ -3339,7 +3313,7 @@ BEGIN:VEVENT
 SUMMARY:Basal Ganglia/Auditory/Visual Lecture
 DTSTART:20261005T150000Z
 DTEND:20261005T155000Z
-UID:17f2e2b8ff879a30bd6f0ecee86ddc5b
+UID:62aac97652f79d7fb26c3cfb895170ee
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20261005O44906
 END:VEVENT
@@ -3347,7 +3321,7 @@ BEGIN:VEVENT
 SUMMARY:Psychotherapy and Counseling
 DTSTART:20261005T200000Z
 DTEND:20261005T205000Z
-UID:5b0ecab2cc2abc3488275bc1bafc9507
+UID:b4f618dda64b0fd2ffe51560503810d9
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20261005O46285
 END:VEVENT
@@ -3355,7 +3329,7 @@ BEGIN:VEVENT
 SUMMARY:Hypothalamus & Thalamus Anatomy
 DTSTART:20261006T120000Z
 DTEND:20261006T125000Z
-UID:f4ee6b1fd706bca55c120640ab7e7535
+UID:06c402dcb9747ab9f2a089561d811bfe
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20261006O44913
 END:VEVENT
@@ -3363,7 +3337,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Inpatient 2a
 DTSTART:20261006T130000Z
 DTEND:20261006T160000Z
-UID:8c8bfea645e0e931f66b8f29555ced55
+UID:0e76a900d7452ee1d26e20cab88206ac
 DESCRIPTION:This offering is a(n) Clinical Experience - Inpatient\n\nhttps
  ://curriculum.ufhealth.org/events/U20261006O45068
 END:VEVENT
@@ -3372,7 +3346,7 @@ SUMMARY:LAC: Neuro SP Encounter **Required Attendance-See Schedule in Canv
  as**
 DTSTART:20261006T130000Z
 DTEND:20261006T160000Z
-UID:749779e26325df41d28cf9563eb5e7dc
+UID:a1b6512855ace5bb3cfca326c528e24c
 DESCRIPTION:This offering is a(n) Simulation\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20261006O46153
 END:VEVENT
@@ -3380,7 +3354,7 @@ BEGIN:VEVENT
 SUMMARY:Ethics: Decisional Capacity
 DTSTART:20261006T170000Z
 DTEND:20261006T175000Z
-UID:d211fc937f8a12acc43e1809bd8b3c7a
+UID:cd4398758e9d0e77a1f80a3d0fb4413e
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20261006O46324
 END:VEVENT
@@ -3388,7 +3362,7 @@ BEGIN:VEVENT
 SUMMARY:Ethics - Baker/Marchman Acts
 DTSTART:20261006T180000Z
 DTEND:20261006T185000Z
-UID:c1c20bac3826064c77b3ad52558ac9f8
+UID:aa840f3dcdadc6dbf76971ae04bc0f21
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20261006O46323
 END:VEVENT
@@ -3396,7 +3370,7 @@ BEGIN:VEVENT
 SUMMARY:Hypokinetic Movement Disorders
 DTSTART:20261006T190000Z
 DTEND:20261006T195000Z
-UID:f7b3061bcdd493fee74e69a2eb7e4c61
+UID:5e6c448b7c70f61d3549b5fdda872da8
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20261006O44958
 END:VEVENT
@@ -3404,7 +3378,7 @@ BEGIN:VEVENT
 SUMMARY:Hyperkinetic Movement Disorders
 DTSTART:20261006T200000Z
 DTEND:20261006T205000Z
-UID:a48f740dfacc8eaccaabbfff4bb0602a
+UID:5d94fb60e255dc3619dffc5362e79bfd
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20261006O44957
 END:VEVENT
@@ -3412,7 +3386,7 @@ BEGIN:VEVENT
 SUMMARY:County Health Improvement Project Submission 1 **Due by 11:59 PM**
 DTSTART:20261006T210000Z
 DTEND:20261006T220000Z
-UID:97eae802cb3e7135dd12dacb9a6ed2b0
+UID:be10f6bbcd77ce2f29926be233eb3ba8
 DESCRIPTION:This offering is a(n) Deadline\n\nhttps://curriculum.ufhealth.
  org/events/U20261006O45759
 END:VEVENT
@@ -3420,7 +3394,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Inpatient 2a
 DTSTART:20261007T130000Z
 DTEND:20261007T160000Z
-UID:0ebc319e898b47fa45a7c10379716b5a
+UID:fea3a821e1cd3cc7bb8e4b3fe43e136a
 DESCRIPTION:This offering is a(n) Clinical Experience - Inpatient\n\nhttps
  ://curriculum.ufhealth.org/events/U20261007O45067
 END:VEVENT
@@ -3429,7 +3403,7 @@ SUMMARY:LAC: Neuro SP Encounter **Required Attendance-See Schedule in Canv
  as**
 DTSTART:20261007T130000Z
 DTEND:20261007T160000Z
-UID:18e9c5858b5534230b1fc1b9eb447945
+UID:1bad95a156906ce0b73d60a7e1a5ebaf
 DESCRIPTION:This offering is a(n) Simulation\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20261007O46156
 END:VEVENT
@@ -3437,7 +3411,7 @@ BEGIN:VEVENT
 SUMMARY:Lab: Interactive Basal Ganglia Review **Highly Recommended**
 DTSTART:20261007T170000Z
 DTEND:20261007T175000Z
-UID:cfdd772dc4ffe792c17da6de1dad3f6e
+UID:cf001f4beded27717508b5b57ffb1c24
 DESCRIPTION:This offering is a(n) Laboratory\nSession has Learning Materia
  ls\n\nhttps://curriculum.ufhealth.org/events/U20261007O44935
 END:VEVENT
@@ -3445,7 +3419,7 @@ BEGIN:VEVENT
 SUMMARY:Therapeutics: Parkinson’s Disease
 DTSTART:20261007T180000Z
 DTEND:20261007T185000Z
-UID:6a08c160426c81c2b2efaa8597244926
+UID:087330903a6656d34638ea0db96c0873
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20261007O44942
 END:VEVENT
@@ -3453,7 +3427,7 @@ BEGIN:VEVENT
 SUMMARY:Cerebellum Anatomy
 DTSTART:20261007T190000Z
 DTEND:20261007T195000Z
-UID:724c160a70704d2754ffd9b4b7140626
+UID:25f87eb8c1e09586d8a87760fd7c1df0
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20261007O44934
 END:VEVENT
@@ -3461,7 +3435,7 @@ BEGIN:VEVENT
 SUMMARY:Neurodegenerative Pathology
 DTSTART:20261007T200000Z
 DTEND:20261007T205000Z
-UID:27970e2c4d957d07c4415022d060a742
+UID:ede113c83aa79b8b112cea98e90a191d
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20261007O44884
 END:VEVENT
@@ -3469,7 +3443,7 @@ BEGIN:VEVENT
 SUMMARY:Community Health Improvement Workshop #2
 DTSTART:20261008T120000Z
 DTEND:20261008T125000Z
-UID:414ab76daa14c612216f77d4dc114343
+UID:00eece8e4a5c25f559ca370472d8ee74
 DESCRIPTION:This offering is a(n) Workshop\nSession has Learning Materials
  \n\nhttps://curriculum.ufhealth.org/events/U20261008O45754
 END:VEVENT
@@ -3477,7 +3451,7 @@ BEGIN:VEVENT
 SUMMARY:Patient Presentation **Required Attendance**
 DTSTART:20261008T140000Z
 DTEND:20261008T145000Z
-UID:4d4ebaeb69e708d4d6d82c2231e592bf
+UID:323f28b4be7ca9402fcf82990a0989ed
 DESCRIPTION:This offering is a(n) Patient Presentation - Faculty\nSession 
  has Learning Materials\n\nhttps://curriculum.ufhealth.org/events/U20261008
  O44954
@@ -3486,7 +3460,7 @@ BEGIN:VEVENT
 SUMMARY:Lab: Cerebellum **Highly Recommended**
 DTSTART:20261008T150000Z
 DTEND:20261008T155000Z
-UID:9698b521e6b7a90a257c153648587754
+UID:9a24030d40279e6349641eafdec1631b
 DESCRIPTION:This offering is a(n) Laboratory\nSession has Learning Materia
  ls\n\nhttps://curriculum.ufhealth.org/events/U20261008O44936
 END:VEVENT
@@ -3495,7 +3469,7 @@ SUMMARY:Discovery Track - Individual Track Activities or MSRP / Independen
  t Study (Fall)
 DTSTART:20261008T170000Z
 DTEND:20261008T190000Z
-UID:25ca4ae5addad62ea47269f2895e0046
+UID:c7248ba27b5530f80d826970564f620e
 DESCRIPTION:This offering is a(n) Self-Directed Learning\n\nhttps://curric
  ulum.ufhealth.org/events/U20261008O45214
 END:VEVENT
@@ -3503,7 +3477,7 @@ BEGIN:VEVENT
 SUMMARY:Weekend Quiz #4 (Download Opens)
 DTSTART:20261008T210000Z
 DTEND:20261008T213000Z
-UID:fb91e54081c386e4e104ead6e013ce4c
+UID:6787ede2f35647d6a81103d105f9d834
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\n\nhttps://curriculum.ufhealth.org/events/U20261008O4624
  4
@@ -3512,7 +3486,7 @@ BEGIN:VEVENT
 SUMMARY:UF Homecoming
 DTSTART:20261009T120000Z
 DTEND:20261009T210000Z
-UID:341e5efefc83b007ed6c931a540392f9
+UID:7ec3fd29de00f119a255e45d4ef613d4
 DESCRIPTION:This offering is a(n) Holiday\n\nhttps://curriculum.ufhealth.o
  rg/events/U20261009O45858
 END:VEVENT
@@ -3520,7 +3494,7 @@ BEGIN:VEVENT
 SUMMARY:Weekend Quiz III (Download Opens) **Due Sunday 10/11 @ 11:59PM**
 DTSTART:20261009T210000Z
 DTEND:20261009T213000Z
-UID:23e437a3bbea59b5bcce306416e6b67f
+UID:c55b696de53512886feb6d7ba6d8a6f1
 DESCRIPTION:This offering is a(n) Quiz - Institutionally Developed\, Writt
  en/Computer-based\nSession has Learning Materials\n\nhttps://curriculum.uf
  health.org/events/U20261009O44926
@@ -3529,7 +3503,7 @@ BEGIN:VEVENT
 SUMMARY:Brachial Plexus I
 DTSTART:20261012T120000Z
 DTEND:20261012T125000Z
-UID:a9a925525ce21c6dcb5f60f52f3dfabb
+UID:f953401dd69b72e910df01205116123f
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20261012O44940
 END:VEVENT
@@ -3537,7 +3511,7 @@ BEGIN:VEVENT
 SUMMARY:Brachial Plexus II
 DTSTART:20261012T130000Z
 DTEND:20261012T135000Z
-UID:a3310c4cacc30b201c4351bd10998404
+UID:6f6390ac1241a2486db67b0d68c058db
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20261012O44939
 END:VEVENT
@@ -3545,7 +3519,7 @@ BEGIN:VEVENT
 SUMMARY:Neuromuscular Disorders
 DTSTART:20261012T140000Z
 DTEND:20261012T145000Z
-UID:81c305b853c3f7645edb3a68acf21257
+UID:06039dbb5704f19d5ccf8bffa9959a4e
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20261012O44905
 END:VEVENT
@@ -3553,7 +3527,7 @@ BEGIN:VEVENT
 SUMMARY:Dementia
 DTSTART:20261012T150000Z
 DTEND:20261012T155000Z
-UID:dbe2219b5a8477a5f0921c46701f8793
+UID:4cf9b43bbb9e3ebec65f68effc2c731d
 DESCRIPTION:This offering is a(n) Lecture\nSession has Learning Materials\
  n\nhttps://curriculum.ufhealth.org/events/U20261012O46963
 END:VEVENT
@@ -3561,7 +3535,7 @@ BEGIN:VEVENT
 SUMMARY:Adolescent Development
 DTSTART:20261012T170000Z
 DTEND:20261012T175000Z
-UID:244e956d1d29a806a208526fa19e6e72
+UID:a828bb024e02393efebd895bb255385b
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20261012O46351
 END:VEVENT
@@ -3569,7 +3543,7 @@ BEGIN:VEVENT
 SUMMARY:Disruptive Disorders
 DTSTART:20261012T180000Z
 DTEND:20261012T185000Z
-UID:ba5f3ec38ebf17a2d9426ffdbd424233
+UID:055a90a38d9b7d451d5c47e00c524940
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20261012O46283
 END:VEVENT
@@ -3577,7 +3551,7 @@ BEGIN:VEVENT
 SUMMARY:Somatoform Disorders
 DTSTART:20261012T180000Z
 DTEND:20261012T185000Z
-UID:da33de1fd1dcf1793877d15cc522d638
+UID:7fd954c48a533434b8136bcad88e87e7
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20261012O46327
 END:VEVENT
@@ -3585,7 +3559,7 @@ BEGIN:VEVENT
 SUMMARY:Anxiety Disorders
 DTSTART:20261012T190000Z
 DTEND:20261012T195000Z
-UID:7d5b444a1587ed3b4ec434520bcd1172
+UID:9cc1160137c85c49a51e7f462292720a
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20261012O46277
 END:VEVENT
@@ -3593,7 +3567,7 @@ BEGIN:VEVENT
 SUMMARY:Personality Disorders
 DTSTART:20261012T190000Z
 DTEND:20261012T195000Z
-UID:25c7f3ee99dd1a94a545999c4f6eeeee
+UID:672b3569815b36f1bb9aff686ed4ec5a
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20261012O46362
 END:VEVENT
@@ -3601,7 +3575,7 @@ BEGIN:VEVENT
 SUMMARY:Anxiolytics
 DTSTART:20261012T200000Z
 DTEND:20261012T205000Z
-UID:b30abfb6bc61ffeb1cd6a93eb4b59cfa
+UID:329f44e5a0e19ef8f5ed327764930399
 DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
  rg/events/U20261012O46279
 END:VEVENT
@@ -3609,7 +3583,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Inpatient 2B
 DTSTART:20261013T130000Z
 DTEND:20261013T160000Z
-UID:91fa0a6068b3ab90b1ff832ca9b08b45
+UID:ee2ab2dfcc0e955ed37b0721f0a9d5d5
 DESCRIPTION:This offering is a(n) Clinical Experience - Inpatient\n\nhttps
  ://curriculum.ufhealth.org/events/U20261013O45099
 END:VEVENT
@@ -3618,7 +3592,7 @@ SUMMARY:LAC-  Mental Health SP Encounter **Required Attendance-See Schedul
  e in Canvas**
 DTSTART:20261013T130000Z
 DTEND:20261013T160000Z
-UID:f10192209206a232f9b186239431ab68
+UID:1efea9b6537542f3431172ee433102e6
 DESCRIPTION:This offering is a(n) Simulation\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20261013O46294
 END:VEVENT
@@ -3626,7 +3600,7 @@ BEGIN:VEVENT
 SUMMARY:Substance Use Disorders (PT Interview) **Required Attendance**
 DTSTART:20261013T170000Z
 DTEND:20261013T185000Z
-UID:cc88846cba581743b4739860156b997b
+UID:acd9d16a3e212b517437d2009998958e
 DESCRIPTION:This offering is a(n) Patient Presentation - Faculty\nAttendan
  ce is Required\n\nhttps://curriculum.ufhealth.org/events/U20261013O46364
 END:VEVENT
@@ -3634,7 +3608,7 @@ BEGIN:VEVENT
 SUMMARY:Localization **Required Attendance**
 DTSTART:20261013T190000Z
 DTEND:20261013T205000Z
-UID:13692910327aa523f319eb2b6914a847
+UID:914b0744bf93506a051eb201fbb11292
 DESCRIPTION:This offering is a(n) Case-Based Instruction/Learning\nSession
   has Learning Materials\n\nhttps://curriculum.ufhealth.org/events/U2026101
  3O44920
@@ -3643,7 +3617,7 @@ BEGIN:VEVENT
 SUMMARY:CLG 2: Inpatient 2B
 DTSTART:20261014T130000Z
 DTEND:20261014T160000Z
-UID:8a4bf41b4c2a6da5a4a639b332f0163a
+UID:8c999404fcc9c184ef61e73e923abe21
 DESCRIPTION:This offering is a(n) Clinical Experience - Inpatient\n\nhttps
  ://curriculum.ufhealth.org/events/U20261014O45100
 END:VEVENT
@@ -3652,7 +3626,7 @@ SUMMARY:LAC-  Mental Health SP Encounter **Required Attendance-See Schedul
  e in Canvas**
 DTSTART:20261014T130000Z
 DTEND:20261014T160000Z
-UID:8b508cb01183cbb889f9cba79294eeb4
+UID:7d13a4b92a0824f71cbf5fa83ae473f2
 DESCRIPTION:This offering is a(n) Simulation\nAttendance is Required\n\nht
  tps://curriculum.ufhealth.org/events/U20261014O46298
 END:VEVENT
@@ -3660,7 +3634,7 @@ BEGIN:VEVENT
 SUMMARY:Neuro Exam II
 DTSTART:20261016T120000Z
 DTEND:20261016T151000Z
-UID:b6df9544e2d081984b983bf862afd82f
+UID:2b9148b1c0c3054a5b24eeed55a9d93b
 DESCRIPTION:This offering is a(n) Exam - Institutionally Developed\, Clini
  cal Performance\nAttendance is Required\nSession has Learning Materials\n\
  nhttps://curriculum.ufhealth.org/events/U20261016O44896
@@ -3669,8 +3643,24 @@ BEGIN:VEVENT
 SUMMARY:Exam II Self-Review **Immediate Release**
 DTSTART:20261016T151000Z
 DTEND:20261016T154000Z
-UID:03d335efa2044fce38689519793e23aa
+UID:32e5df71dffb114375b6946262d5905f
 DESCRIPTION:This offering is a(n) Self-Assessment\nSession has Learning Ma
  terials\n\nhttps://curriculum.ufhealth.org/events/U20261016O44898
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Childhood Exam
+DTSTART:20261016T170000Z
+DTEND:20261016T175000Z
+UID:dc7190af5014d15a679f7a674f92711c
+DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
+ rg/events/U20261016O46326
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meningitis/Encephalitis
+DTSTART:20261016T180000Z
+DTEND:20261016T185000Z
+UID:488a501af394e7448b7758f25999b4ee
+DESCRIPTION:This offering is a(n) Lecture\n\nhttps://curriculum.ufhealth.o
+ rg/events/U20261016O46258
 END:VEVENT
 END:VCALENDAR
